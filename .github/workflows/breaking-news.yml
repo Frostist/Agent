@@ -1,0 +1,39 @@
+name: Breaking News Analysis
+
+on:
+  repository_dispatch:
+    types: [breaking-news]
+  workflow_dispatch:
+    inputs:
+      news_url:
+        description: 'URL of breaking news'
+        required: true
+
+jobs:
+  analyze-breaking-news:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+      
+    - name: Analyze breaking news
+      env:
+        GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+        NEWS_URL: ${{ github.event.inputs.news_url || github.event.client_payload.url }}
+      run: |
+        python src/breaking_news_analyzer.py
+        
+    - name: Send Telegram alert
+      env:
+        TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      run: |
+        python src/publisher.py --urgent --platforms=telegram 
