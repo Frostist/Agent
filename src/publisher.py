@@ -36,12 +36,16 @@ class TelegramPublisher:
         except Exception as e:
             return f"Error getting content: {e}"
         
-    def send_message(self, text, parse_mode='Markdown'):
+    def send_message(self, text, parse_mode='MarkdownV2'):
         """Send message to Telegram"""
         if not self.bot_token or not self.chat_id:
             print("Telegram credentials not configured")
             return False
             
+        # Escape text for MarkdownV2
+        if parse_mode == 'MarkdownV2':
+            text = escape_markdown_v2(text)
+
         url = f"{self.base_url}/sendMessage"
         data = {
             'chat_id': self.chat_id,
