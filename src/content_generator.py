@@ -3,6 +3,7 @@ import json
 import google.generativeai as genai
 from datetime import datetime
 import argparse
+from analyzer import get_two_latest_contents, gemini_is_important_update
 
 class ContentGenerator:
     def __init__(self):
@@ -132,6 +133,13 @@ if __name__ == "__main__":
     
     if args.type == 'quick-analysis':
         content = generator.generate_quick_analysis(market_data)
+        # Gemini importance check before saving
+        if args.type == 'quick-analysis':
+            latest, previous = get_two_latest_contents('market-analysis')
+            # Use the new content as 'latest', previous as 'previous'
+            if not gemini_is_important_update(content, latest):
+                print("Gemini decided this update is NOT IMPORTANT. Skipping save and stopping process.")
+                exit(0)
         generator.save_content(content, 'market-analysis')
     elif args.type == 'daily-report':
         content = generator.generate_daily_report(market_data)

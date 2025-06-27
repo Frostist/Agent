@@ -1,56 +1,46 @@
 import os
-import json
+import glob
 import google.generativeai as genai
-import requests
 
-class ContentGenerator:
-    def __init__(self):
-        # Configure Gemini API
-        genai.configure(api_key=os.getenv('GOOGLE_API_KEY'))
-    
-    def load_market_data(self):
-        """Load the latest market data"""
-        with open('data/market-data.json', 'r') as f:
-            return json.load(f)
-    
-    def analyze_data(self, data):
-        """Analyze market data using Gemini model"""
-        prompt = "Analyze the following market data and provide insights: " + str(data)
-        response = genai.generate_text_response(prompt=prompt, model="gemini-2.0-flash-exp")
-        return response.text  # Access the text result correctly
+def get_two_latest_contents(content_type='market-analysis'):
+    pattern = f"content/{content_type}/*.md"
+    files = sorted(glob.glob(pattern), key=os.path.getctime, reverse=True)
+    if len(files) < 1:
+        return None, None
+    def extract_main_content(filepath):
+        with open(filepath, 'r') as f:
+            lines = f.readlines()
+        # Remove header (first two lines)
+        return ''.join(lines[2:]).strip()
+    latest_content = extract_main_content(files[0])
+    prev_content = extract_main_content(files[1]) if len(files) > 1 else None
+    return latest_content, prev_content
 
-class TelegramNotifier:
-    def __init__(self):
-        self.api_url = f"https://api.telegram.org/bot{os.getenv('TELEGRAM_BOT_TOKEN')}/sendMessage"
-        self.chat_id = os.getenv('TELEGRAM_CHAT_ID')
+def gemini_is_important_update(new_content, prev_content):
+    """
+    Use Gemini to decide if the new content is important enough to save and continue the process.
+    Returns True if important, False if not.
+    """
+    genai.configure(api_key=os.getenv('GOOGLE_API_KEY'))
+    model = genai.GenerativeModel('gemini-2.0-flash-exp')
+    prompt = f"""
+    You are an expert crypto news editor. Compare the following two market analysis reports. The first is the most recent, the second is the previous one. 
+    If the new report contains important new information, significant changes, or actionable insights that were not present in the previous report, respond ONLY with 'IMPORTANT'.
+    If the new report is not meaningfully different, or does not add value, respond ONLY with 'NOT IMPORTANT'.
     
-    def send_message(self, message):
-        """Send a message via Telegram"""
-        data = {
-            "chat_id": self.chat_id,
-            "text": message
-        }
-        response = requests.post(self.api_url, json=data)
-        if response.status_code == 200:
-            print("Notification sent successfully.")
-        else:
-            print(f"Failed to send notification. Status code: {response.status_code}")
-
-def main():
-    print("Starting market analysis...")
+    ---
+    NEW REPORT:
+    {new_content}
     
-    # Initialize components
-    generator = ContentGenerator()
-    notifier = TelegramNotifier()
-    
-    # Load market data
-    market_data = generator.load_market_data()
-    
-    # Analyze data
-    insights = generator.analyze_data(market_data)
-    
-    # Send insights via Telegram
-    notifier.send_message(insights)
-
-if __name__ == "__main__":
-    main()
+    ---
+    PREVIOUS REPORT:
+    {prev_content if prev_content else '[No previous report]'}
+    """
+    try:
+        response = model.generate_content(prompt)
+        decision = response.text.strip().upper()
+        return decision.startswith('IMPORTANT')
+    except Exception as e:
+        print(f"Error with Gemini importance check: {e}")
+        # Fail safe: if Gemini fails, treat as important to avoid missing updates
+        return True
