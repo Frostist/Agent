@@ -16,8 +16,8 @@ class ContentGenerator:
     def analyze_data(self, data):
         """Analyze market data using Gemini model"""
         prompt = "Analyze the following market data and provide insights: " + str(data)
-        response = genai.generate_text(prompt=prompt, model="gemini-2.0-flash-exp")
-        return response.result
+        response = genai.generate_text_response(prompt=prompt, model="gemini-2.0-flash-exp")
+        return response.text  # Access the text result correctly
 
 class TelegramNotifier:
     def __init__(self):
