@@ -39,13 +39,13 @@ jobs:
       run: |
         python src/content_generator.py --type=quick-analysis
         
-    - name: Commit and push results
+    - name: Commit and push market analysis
       env:
-        GITHUB_TOKEN: ${{ secrets.TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git
+        git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/Frostist/Agent.git
         git add content/ data/
         git commit -m "🤖 Market analysis $(date)" || exit 0
         git push
