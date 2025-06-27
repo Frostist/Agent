@@ -119,6 +119,31 @@ class DataCollector:
             })
         return articles
     
+    def fetch_google_finance_prices(self):
+        url = "https://www.google.com/finance/markets/cryptocurrencies"
+        response = requests.get(url)
+        soup = BeautifulSoup(response.text, 'html.parser')
+        tickers = []
+        for li in soup.select('ul.sbnBtf > li'):
+            try:
+                symbol = li.select_one('div.COaKTb')
+                name = li.select_one('div.ZvmM7')
+                price = li.select_one('div.YMlKec')
+                change = li.select_one('span.P2Luy')
+                percent = li.select_one('div.JwB6zf')
+                if symbol and name and price:
+                    tickers.append({
+                        'symbol': symbol.text.strip(),
+                        'name': name.text.strip(),
+                        'price': float(price.text.replace(',', '').replace('$', '')),
+                        'change': float(change.text.replace(',', '').replace('+', '').replace('%', '')) if change else None,
+                        'percent_change': float(percent.text.replace('%', '').replace('+', '').replace('−', '-')) if percent else None,
+                        'source': 'Google Finance'
+                    })
+            except Exception:
+                continue
+        return tickers
+
     def fetch_market_data(self):
         # Aggregate from all sources
         all_articles = []
@@ -129,6 +154,9 @@ class DataCollector:
         all_articles.extend(self.fetch_cointelegraph())
         all_articles.extend(self.fetch_newsbtc())
         all_articles.extend(self.fetch_google_news())
+        # Add Google Finance price data
+        google_finance_prices = self.fetch_google_finance_prices()
+        all_articles.extend(google_finance_prices)
         # Save to file
         os.makedirs('data', exist_ok=True)
         with open('data/market-data.json', 'w') as f:
