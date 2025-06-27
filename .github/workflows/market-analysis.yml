@@ -53,9 +53,9 @@ jobs:
         git commit -m "🤖 Market analysis $(date)" || exit 0
         git push
         
-    - name: Send Telegram notification
+    - name: Send Telegram Market Analysis
       env:
         TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
         TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
       run: |
-        python src/publisher.py --platforms=telegram 
+        python src/publisher.py --platforms=telegram --type=market-analysis 
