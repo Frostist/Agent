@@ -3,6 +3,9 @@ import json
 import requests
 from datetime import datetime
 from bs4 import BeautifulSoup
+import feedparser
+from newspaper import Article
+from pygooglenews import GoogleNews
 
 class DataCollector:
     def __init__(self):
@@ -77,6 +80,72 @@ class DataCollector:
                 })
         return articles
     
+    def fetch_cointelegraph(self):
+        url = "https://cointelegraph.com/rss"
+        feed = feedparser.parse(url)
+        articles = []
+        for entry in feed.entries:
+            summary = entry.get('summary', '')
+            if not summary and entry.get('link'):
+                try:
+                    article = Article(entry['link'])
+                    article.download()
+                    article.parse()
+                    summary = article.summary
+                except Exception:
+                    summary = ''
+            articles.append({
+                'title': entry.get('title', '').strip(),
+                'url': entry.get('link', ''),
+                'summary': summary.strip(),
+                'source': 'Cointelegraph'
+            })
+        return articles
+
+    def fetch_newsbtc(self):
+        url = "https://www.newsbtc.com/feed/"
+        feed = feedparser.parse(url)
+        articles = []
+        for entry in feed.entries:
+            summary = entry.get('summary', '')
+            if not summary and entry.get('link'):
+                try:
+                    article = Article(entry['link'])
+                    article.download()
+                    article.parse()
+                    summary = article.summary
+                except Exception:
+                    summary = ''
+            articles.append({
+                'title': entry.get('title', '').strip(),
+                'url': entry.get('link', ''),
+                'summary': summary.strip(),
+                'source': 'NewsBTC'
+            })
+        return articles
+
+    def fetch_google_news(self):
+        gn = GoogleNews(lang='en', country='US')
+        search = gn.search('crypto')
+        articles = []
+        for entry in search['entries']:
+            summary = entry.get('summary', '')
+            if not summary and entry.get('link'):
+                try:
+                    article = Article(entry['link'])
+                    article.download()
+                    article.parse()
+                    summary = article.summary
+                except Exception:
+                    summary = ''
+            articles.append({
+                'title': entry.get('title', '').strip(),
+                'url': entry.get('link', ''),
+                'summary': summary.strip(),
+                'source': 'Google News'
+            })
+        return articles
+    
     def fetch_market_data(self):
         # Aggregate from all sources
         all_articles = []
@@ -84,6 +153,9 @@ class DataCollector:
         all_articles.extend(self.fetch_coinmarketcap())
         all_articles.extend(self.fetch_cryptopanic())
         all_articles.extend(self.fetch_coindesk())
+        all_articles.extend(self.fetch_cointelegraph())
+        all_articles.extend(self.fetch_newsbtc())
+        all_articles.extend(self.fetch_google_news())
         # Save to file
         os.makedirs('data', exist_ok=True)
         with open('data/market-data.json', 'w') as f:
