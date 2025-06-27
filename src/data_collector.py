@@ -4,8 +4,6 @@ import requests
 from datetime import datetime
 from bs4 import BeautifulSoup
 import feedparser
-from newspaper import Article
-from pygooglenews import GoogleNews
 
 class DataCollector:
     def __init__(self):
@@ -86,14 +84,6 @@ class DataCollector:
         articles = []
         for entry in feed.entries:
             summary = entry.get('summary', '')
-            if not summary and entry.get('link'):
-                try:
-                    article = Article(entry['link'])
-                    article.download()
-                    article.parse()
-                    summary = article.summary
-                except Exception:
-                    summary = ''
             articles.append({
                 'title': entry.get('title', '').strip(),
                 'url': entry.get('link', ''),
@@ -108,14 +98,6 @@ class DataCollector:
         articles = []
         for entry in feed.entries:
             summary = entry.get('summary', '')
-            if not summary and entry.get('link'):
-                try:
-                    article = Article(entry['link'])
-                    article.download()
-                    article.parse()
-                    summary = article.summary
-                except Exception:
-                    summary = ''
             articles.append({
                 'title': entry.get('title', '').strip(),
                 'url': entry.get('link', ''),
@@ -124,24 +106,15 @@ class DataCollector:
             })
         return articles
 
-    def fetch_google_news(self):
-        gn = GoogleNews(lang='en', country='US')
-        search = gn.search('crypto')
+    def fetch_google_news(self, query="crypto"):
+        url = f"https://news.google.com/rss/search?q={query}"
+        feed = feedparser.parse(url)
         articles = []
-        for entry in search['entries']:
-            summary = entry.get('summary', '')
-            if not summary and entry.get('link'):
-                try:
-                    article = Article(entry['link'])
-                    article.download()
-                    article.parse()
-                    summary = article.summary
-                except Exception:
-                    summary = ''
+        for entry in feed.entries:
             articles.append({
                 'title': entry.get('title', '').strip(),
                 'url': entry.get('link', ''),
-                'summary': summary.strip(),
+                'summary': entry.get('summary', '').strip(),
                 'source': 'Google News'
             })
         return articles
