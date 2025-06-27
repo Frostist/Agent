@@ -1,14 +1,13 @@
 import os
 import json
-import genai
+import google.generativeai as genai
 import requests
 
 class ContentGenerator:
     def __init__(self):
         # Configure Gemini API
         genai.configure(api_key=os.getenv('GOOGLE_API_KEY'))
-        self.model = genai.GenerativeModel('gemini-2.0-flash-exp')
-        
+    
     def load_market_data(self):
         """Load the latest market data"""
         with open('data/market-data.json', 'r') as f:
@@ -17,8 +16,8 @@ class ContentGenerator:
     def analyze_data(self, data):
         """Analyze market data using Gemini model"""
         prompt = "Analyze the following market data and provide insights: " + str(data)
-        response = self.model.generate(prompt)
-        return response['text']
+        response = genai.generate_text(prompt=prompt, model="gemini-2.0-flash-exp")
+        return response.result
 
 class TelegramNotifier:
     def __init__(self):
