@@ -22,18 +22,21 @@ class ContentGenerator:
                           reverse=True)[:5]
         
         prompt = f"""
-        Based on this crypto market data, write a concise market analysis:
-        
-        Top Movers (24h):
+        You are a professional crypto market analyst.
+
+        Given the following market data (top movers, price changes, volume, and news):
+
         {json.dumps(top_movers, indent=2)}
-        
-        Create a brief analysis covering:
-        1. Overall market sentiment
-        2. Key price movements
-        3. Notable trends
-        4. What to watch next
-        
-        Keep it under 200 words and engaging. Use emojis where appropriate.
+
+        Write a concise, actionable market analysis (max 250 words) that includes:
+        - 1-2 sentence summary of overall market sentiment (bullish, bearish, neutral, and why)
+        - The top 2-3 coins with the biggest moves: explain possible reasons (news, volume, sector trends)
+        - Any notable sector trends (DeFi, Layer 2, meme coins, etc.)
+        - Key technical levels (support/resistance) for Bitcoin and Ethereum if data is available
+        - 1-2 actionable insights or things for traders to watch today (e.g., "Watch for BTC to break $30k", "DeFi coins showing strength", "Regulatory news impacting sentiment")
+        - Use clear markdown formatting and relevant emojis for readability
+
+        If data is missing, state what is missing and provide a general market outlook.
         """
         
         try:
