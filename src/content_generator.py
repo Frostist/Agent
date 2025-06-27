@@ -17,9 +17,14 @@ class ContentGenerator:
             
     def generate_quick_analysis(self, market_data):
         """Generate a quick market analysis"""
-        top_movers = sorted(market_data['data'], 
-                          key=lambda x: abs(x['price_change_percentage_24h']), 
-                          reverse=True)[:5]
+        top_movers = sorted(
+            [x for x in market_data['data'] if 'price_change_percentage_24h' in x],
+            key=lambda x: abs(x['price_change_percentage_24h']),
+            reverse=True
+        )[:5]
+        
+        if not top_movers:
+            return "No price change data available for top movers. Please ensure your data includes 'price_change_percentage_24h'."
         
         prompt = f"""
         You are a professional crypto market analyst.
