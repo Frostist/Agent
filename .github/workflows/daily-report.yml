@@ -6,6 +6,9 @@ on:
     - cron: '0 9 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate-daily-report:
     runs-on: ubuntu-latest
@@ -29,10 +32,13 @@ jobs:
         GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
       run: python src/content_generator.py --type=daily-report
         
-    - name: Commit report
+    - name: Commit and push report
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
+        git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
         git add content/daily-reports/
         git commit -m "📊 Daily report $(date +%Y-%m-%d)" || exit 0
         git push
