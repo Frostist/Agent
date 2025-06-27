@@ -43,8 +43,9 @@ jobs:
         git commit -m "📊 Daily report $(date +%Y-%m-%d)" || exit 0
         git push
         
-    - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.TOKEN }}
-        publish_dir: ./content 
+    - name: Send Telegram Daily Report
+      env:
+        TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      run: |
+        python src/publisher.py --platforms=telegram --type=daily-reports 
