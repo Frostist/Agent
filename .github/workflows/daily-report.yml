@@ -21,11 +21,13 @@ jobs:
     - name: Install dependencies
       run: pip install -r requirements.txt
       
+    - name: Fetch market data
+      run: python src/data_collector.py
+      
     - name: Generate comprehensive report
       env:
         GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
-      run: |
-        python src/content_generator.py --type=daily-report
+      run: python src/content_generator.py --type=daily-report
         
     - name: Commit report
       run: |
