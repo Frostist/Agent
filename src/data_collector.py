@@ -131,13 +131,15 @@ class DataCollector:
                 price = li.select_one('div.YMlKec')
                 change = li.select_one('span.P2Luy')
                 percent = li.select_one('div.JwB6zf')
+                percent_value = float(percent.text.replace('%', '').replace('+', '').replace('−', '-')) if percent else None
                 if symbol and name and price:
                     tickers.append({
                         'symbol': symbol.text.strip(),
                         'name': name.text.strip(),
                         'price': float(price.text.replace(',', '').replace('$', '')),
                         'change': float(change.text.replace(',', '').replace('+', '').replace('%', '')) if change else None,
-                        'percent_change': float(percent.text.replace('%', '').replace('+', '').replace('−', '-')) if percent else None,
+                        'percent_change': percent_value,
+                        'price_change_percentage_24h': percent_value,
                         'source': 'Google Finance'
                     })
             except Exception:
