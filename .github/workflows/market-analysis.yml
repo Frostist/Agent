@@ -40,9 +40,12 @@ jobs:
         python src/content_generator.py --type=quick-analysis
         
     - name: Commit and push results
+      env:
+        GITHUB_TOKEN: ${{ secrets.TOKEN }}
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
+        git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git
         git add content/ data/
         git commit -m "🤖 Market analysis $(date)" || exit 0
         git push
