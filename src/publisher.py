@@ -3,6 +3,7 @@ import requests
 import json
 from datetime import datetime
 import glob
+import re
 
 class TelegramPublisher:
     def __init__(self):
@@ -88,6 +89,10 @@ class TelegramPublisher:
         
         message = f"📈 *Technical Analysis*\n\n{content}"
         return self.send_message(message)
+
+def escape_markdown_v2(text):
+    # Escape all special characters for MarkdownV2
+    return re.sub(r'([_*\[\]()~`>#+\-=|{}.!])', r'\\\1', text)
 
 if __name__ == "__main__":
     import argparse
