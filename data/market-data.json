@@ -1,6 +1,18 @@
 {
-  "timestamp": "2025-06-27T13:54:06.482799",
+  "timestamp": "2025-06-27T14:15:06.632470",
   "data": [
+    {
+      "title": "Crypto payments abroad may be legal despite domestic bans in several countries",
+      "url": "https://cointelegraph.com/news/crypto-payments-abroad-if-illegal-home-country?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto payments abroad may be legal despite domestic bans in several countries\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2IxNTEtN2FiZi03NmMxLTlhZjMtMGVkNmYxYjllODU3.jpg\" /></p><p>Countries that ban crypto payments often have no restrictions on using crypto abroad, but such legal overlaps may attract scrutiny from global regulators like the FATF.</p>",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Bitcoin loans are back, rewriting the book Celsius burned",
+      "url": "https://cointelegraph.com/news/bitcoin-loans-back-rewriting-book-celsius-burned?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin loans are back, rewriting the book Celsius burned\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmY5NWUtN2E4MS03ZWZjLWIzMTQtZTQxY2Q5NjIxMWI4.jpg\" /></p><p>Bitcoin lending is making a quiet comeback with tighter controls, but volatility still threatens sudden liquidations.</p>",
+      "source": "Cointelegraph"
+    },
     {
       "title": "Across Protocol DAO under fire over $23M fund misuse claims",
       "url": "https://cointelegraph.com/news/across-protocol-founders-accused-of-funneling-23m-to-own-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -170,18 +182,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Bitcoin analysts say this must happen for BTC price to break $112K",
-      "url": "https://cointelegraph.com/news/bitcoin-analysts-say-this-must-happen-for-btc-price-breakout-to-new-all-time-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin analysts say this must happen for BTC price to break $112K\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2FjMDQtNTdiYS03N2FkLWE4MDItMDZkMzc4ODNlNjky.jpg\" /></p><p>Pickup in MVRV momentum, profitability and onchain activity could push BTC above the next big hurdle at $110,000 into price discovery.</p>",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Can Bitcoin ETFs replace bonds in institutional portfolios?",
-      "url": "https://cointelegraph.com/explained/can-bitcoin-etfs-replace-bonds-in-institutional-portfolios?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Can Bitcoin ETFs replace bonds in institutional portfolios?\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84MjkxZThkODRjZGYxMTVhMTI2YzUxZGE0OTkyMTQ5MS5qcGc=.jpg\" /></p><p>As Bitcoin ETFs gain traction, some institutions are asking whether crypto can serve as a modern hedge. Can it really take the place of bonds?</p>",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Twitter User Claims TradingView Has Ignored a Fibonacci Retracement Bug for 5 Years",
       "url": "https://cointelegraph.com/news/twitter-user-claims-tradingview-has-ignored-a-fibonacci-retracement-bug-for-5-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Twitter User Claims TradingView Has Ignored a Fibonacci Retracement Bug for 5 Years\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iNmQxM2ViMWYyZjdlYmUwMWQzYjZhZGRkMmNiM2M2MS5qcGc=.jpg\" /></p><p>Popular chart analysis service TradingView contains a bug in the Fibonacci retracement technical analysis tool.</p>",
@@ -250,7 +250,7 @@
     {
       "title": "Fannie Mae, Freddie Mac ordered to consider crypto as an asset when buying mortgages - ABC News - Breaking News, Latest News and Videos",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVlp0MDRoNTdvcER6YkFUcldGVVp4UUp1a1RQRzFUZ1pnWjMzWTIzdmpnb2d4NHRqNmtBS3dWaHo2bm9CWHZtclZmT3NOZjlsUHdmcm9pc0FyTzlrWHA4ZXM5dTlOanB3N2dCNVhZaDJodWpIN0xld2ZWbzhOS1dySUE5azNUc2M5azY2MU9yUXg5WjhBT1hDd3BkUnTSAaIBQVVfeXFMT3o4QXFhZzJIdGhManh0YTdfd1VjSV9WSnNmQkI0Wlo1QXdpM1FSUzBWNHZsVHFCdjRJdW9RYmRXSjdLZDhmY0tZNVlsZFNhVGQxcnVXSUZsdms1WGE5bU9BbWYyNmUycV9IdlEzR2ZJYmhaeEx2bjBVa1hYQlNPaVc4SUp3YXJoaDd3MmR2V0UzcmlCanNoWHc5Y3hGdXNCazVn?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQVlp0MDRoNTdvcER6YkFUcldGVVp4UUp1a1RQRzFUZ1pnWjMzWTIzdmpnb2d4NHRqNmtBS3dWaHo2bm9CWHZtclZmT3NOZjlsUHdmcm9pc0FyTzlrWHA4ZXM5dTlOanB3N2dCNVhZaDJodWpIN0xld2ZWbzhOS1dySUE5azNUc2M5azY2MU9yUXg5WjhBT1hDd3BkUnTSAaIBQVVfeXFMT3o4QXFhZzJIdGhManh0YTdfd1VjSV9WSnNmQkI0Wlo1QXdpM1FSUzBWNHZsVHFCdjRJdW9RYmRXSjdLZDhmY0tZNVlsZFNhVGQxcnVXSUZsdms1WGE5bU9BbWYyNmUycV9IdlEzR2ZJYmhaeEx2bjBVa1hYQlNPaVc4SUp3YXJoaDd3MmR2V0UzcmlCanNoWHc5Y3hGdXNCazVn?oc=5\" target=\"_blank\">Fannie Mae, Freddie Mac ordered to consider crypto as an asset when buying mortgages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNR3hOSnNOLTh1d2xnOUN2UDZmbWxsUlplZUVkYnlrclJmeGRhTWpVNWxKNWJzT2c3akhQTHhReEs3NDZaeUR6SUIzTlQ4SmlkR1hRaTAtR3VzeFJsVjhJS3JXazl1YW9kbEFNTXpNbXNsTVVIUTl5emozVjJhSXZZQVMwOXlHdnB2UHU4NjZLaG51NjRmMWtSYWl3LTV0Zjk2SDdfQQ?oc=5\" target=\"_blank\">Federal Regulator Opens Doors to Considering Crypto in Mortgage Applications</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFA5ZGFOQmlmR1JxSXR4UFhPMmp1cnpnOFMxeUpEdUNXanlpMWN1clRCQ2tTYTNSR0licFU4S1ZLRjJxYzBZR0lfME5rMUxOYVRGX1ZPV2QwOTFSb3k2SVh6RGpSZ0pWX1FiQ0HSAW9BVV95cUxNejNzelFjYkxBSHJiUVhQbUV4NDROX1A1RkEwTm1yTkw4M3JOc0JLNnptVXAxb2NSUXIySG9RRGM0X1F2T0F1V2psZmdKNnJYYW1tQlZJcHZkVml2V2R0OUVHWWNUNS1oMUswemZrRXc?oc=5\" target=\"_blank\">Trump administration moves to count crypto as a federal mortgage asset</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li></ol>",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQVlp0MDRoNTdvcER6YkFUcldGVVp4UUp1a1RQRzFUZ1pnWjMzWTIzdmpnb2d4NHRqNmtBS3dWaHo2bm9CWHZtclZmT3NOZjlsUHdmcm9pc0FyTzlrWHA4ZXM5dTlOanB3N2dCNVhZaDJodWpIN0xld2ZWbzhOS1dySUE5azNUc2M5azY2MU9yUXg5WjhBT1hDd3BkUnTSAaIBQVVfeXFMT3o4QXFhZzJIdGhManh0YTdfd1VjSV9WSnNmQkI0Wlo1QXdpM1FSUzBWNHZsVHFCdjRJdW9RYmRXSjdLZDhmY0tZNVlsZFNhVGQxcnVXSUZsdms1WGE5bU9BbWYyNmUycV9IdlEzR2ZJYmhaeEx2bjBVa1hYQlNPaVc4SUp3YXJoaDd3MmR2V0UzcmlCanNoWHc5Y3hGdXNCazVn?oc=5\" target=\"_blank\">Fannie Mae, Freddie Mac ordered to consider crypto as an asset when buying mortgages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQRlhVTy1IanpEMGxqcFJaTHh1bEpUT3I5bWhNUmtqYnFmYndhNUZfMGgzcnFYM3pTUThWR0ZfZlpHbExCczA2cU5GdFIydFB3a3hmdTZGTjFQRktPdTdpNm1rX2c4MS1rSF91b0YzSVZnWEJvZXZ2VklkaWJOVWk2RG5ieV9TXy1TUVE?oc=5\" target=\"_blank\">The Trump administration wants crypto to help you get a mortgage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFA5ZGFOQmlmR1JxSXR4UFhPMmp1cnpnOFMxeUpEdUNXanlpMWN1clRCQ2tTYTNSR0licFU4S1ZLRjJxYzBZR0lfME5rMUxOYVRGX1ZPV2QwOTFSb3k2SVh6RGpSZ0pWX1FiQ0HSAW9BVV95cUxNejNzelFjYkxBSHJiUVhQbUV4NDROX1A1RkEwTm1yTkw4M3JOc0JLNnptVXAxb2NSUXIySG9RRGM0X1F2T0F1V2psZmdKNnJYYW1tQlZJcHZkVml2V2R0OUVHWWNUNS1oMUswemZrRXc?oc=5\" target=\"_blank\">Trump administration moves to count crypto as a federal mortgage asset</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li></ol>",
       "source": "Google News"
     },
     {
@@ -296,15 +296,15 @@
       "source": "Google News"
     },
     {
-      "title": "Hong Kong Sets Out Plan to Regulate Crypto, Encourage Tokenization - CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdGtTTW1aeDdrek5hd2dBNHpIVDBxRzlMN3ptRUt3OU0tSzJzNjdjbDJmbHhjUjFSMkNzb2FqMnJHb2RINDB5clRDTWZNTTJJQ0k1OG81LXluSHBjZ3pWZGszUUpBVFVBVFB2YzViU0wtNTJ4XzE2NGtlOG1KVWRPWUVwRmZRUmtsemhITXd1Z2dXT3I3OE5BQ21HamtYT3ByNW5RTFF1VVVMSkJv?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOdGtTTW1aeDdrek5hd2dBNHpIVDBxRzlMN3ptRUt3OU0tSzJzNjdjbDJmbHhjUjFSMkNzb2FqMnJHb2RINDB5clRDTWZNTTJJQ0k1OG81LXluSHBjZ3pWZGszUUpBVFVBVFB2YzViU0wtNTJ4XzE2NGtlOG1KVWRPWUVwRmZRUmtsemhITXd1Z2dXT3I3OE5BQ21HamtYT3ByNW5RTFF1VVVMSkJv?oc=5\" target=\"_blank\">Hong Kong Sets Out Plan to Regulate Crypto, Encourage Tokenization</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinDesk</font>",
+      "title": "These men allegedly kidnapped and tortured their friend. It may have been all for crypto - Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaUpoOGxLRldZR29qSnIzWVBLWDVQUEY3elJTd0JkUXNNVHl4dnRFV0Y0UTJyWnZ6Yl9WWUNYSTZWaDJycUZkM3I0dDJ3dUozMEFTOEdVU2NVbTQwamhTQVoyM0NkQ0dSYWdhcGJXY1h6eTZDeWhpR2RkZkNPXzNDb05nd0hDcFFvQkhXRVJIcC1FLTlsUXYzd3ppNDVGMjkyb2k1NQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQaUpoOGxLRldZR29qSnIzWVBLWDVQUEY3elJTd0JkUXNNVHl4dnRFV0Y0UTJyWnZ6Yl9WWUNYSTZWaDJycUZkM3I0dDJ3dUozMEFTOEdVU2NVbTQwamhTQVoyM0NkQ0dSYWdhcGJXY1h6eTZDeWhpR2RkZkNPXzNDb05nd0hDcFFvQkhXRVJIcC1FLTlsUXYzd3ppNDVGMjkyb2k1NQ?oc=5\" target=\"_blank\">These men allegedly kidnapped and tortured their friend. It may have been all for crypto</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Australian Broadcasting Corporation</font>",
       "source": "Google News"
     },
     {
-      "title": "Who wants to buy a crypto basis-trade backed synthetic stablecoin? - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55aTVUSXk1bS1WZ21fSXVHMzExQW9TSEhfc1ZfQkZ5YWVIbHVRWWpubDdxaFZmRHRzRkt2NEwtTEtmOGZQNDNiSmU3MEtsTEJEMEpaWEJQMS1rQkgtYkl3SGZHUk9sdmtMQzVtZDZBTmI?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE55aTVUSXk1bS1WZ21fSXVHMzExQW9TSEhfc1ZfQkZ5YWVIbHVRWWpubDdxaFZmRHRzRkt2NEwtTEtmOGZQNDNiSmU3MEtsTEJEMEpaWEJQMS1rQkgtYkl3SGZHUk9sdmtMQzVtZDZBTmI?oc=5\" target=\"_blank\">Who wants to buy a crypto basis-trade backed synthetic stablecoin?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "title": "Hong Kong Sets Out Plan to Regulate Crypto, Encourage Tokenization - CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdGtTTW1aeDdrek5hd2dBNHpIVDBxRzlMN3ptRUt3OU0tSzJzNjdjbDJmbHhjUjFSMkNzb2FqMnJHb2RINDB5clRDTWZNTTJJQ0k1OG81LXluSHBjZ3pWZGszUUpBVFVBVFB2YzViU0wtNTJ4XzE2NGtlOG1KVWRPWUVwRmZRUmtsemhITXd1Z2dXT3I3OE5BQ21HamtYT3ByNW5RTFF1VVVMSkJv?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOdGtTTW1aeDdrek5hd2dBNHpIVDBxRzlMN3ptRUt3OU0tSzJzNjdjbDJmbHhjUjFSMkNzb2FqMnJHb2RINDB5clRDTWZNTTJJQ0k1OG81LXluSHBjZ3pWZGszUUpBVFVBVFB2YzViU0wtNTJ4XzE2NGtlOG1KVWRPWUVwRmZRUmtsemhITXd1Z2dXT3I3OE5BQ21HamtYT3ByNW5RTFF1VVVMSkJv?oc=5\" target=\"_blank\">Hong Kong Sets Out Plan to Regulate Crypto, Encourage Tokenization</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinDesk</font>",
       "source": "Google News"
     },
     {
@@ -327,8 +327,14 @@
     },
     {
       "title": "FHFA\u2019s Pulte Orders Fannie, Freddie to Consider Crypto as Mortgage Asset - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxPS2NQejkwOVMwN3hTT09Ya1JuekNfbXJ5eEZrbk5BRE1lQmtueTdZZ1gzYVU3Ql9RNFNRM0NWeHJvczJhVlgzOHR3U1YtZXRnQ2lhMnYyVE9QcG11cjdGUG83OWRWLWJQM1VNRFBRRVJYMllDYjRRVjl2X2toYkhTU1V4YXd0dVgwSmFsTW5nMXhFVmNiLTN5dFdlam1SaU5mdVZTUGxmUTJST2Z5T3NGQlRHc3lfSEZBTXJ4NjRYQlZaV3RtTUhCNmc2LVRndVdvdk5EbzNGTHZ5OWUzNFdmd2NFdWFpR3NsS0JSLWpXNGR6MXhINEg0M3FZRmRYZjMzcXhWSWZqblFRdUJBak8xYWFvWDdIRHhHSWhNUlZ4QWJKdVNCM1pQa2stREFnR2haMHJ2cjluWnk5ZGhKcGZFRkRlOTBpaVhXc1AySldudnZqUnpCemxGa1lGZ0ZlV09zWk5la2RlWE9TVEJLMkJWLWtXVzRZa29pdnhlUk5VMlpZTmlYcF80am5tSmJBTjZvYmNCaVpQZFF2UWstQ0pQQ09NUWxEYW13YlNwS2d6ODlxcS02OTJZd1dsRkp2RUE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwNBVV95cUxPS2NQejkwOVMwN3hTT09Ya1JuekNfbXJ5eEZrbk5BRE1lQmtueTdZZ1gzYVU3Ql9RNFNRM0NWeHJvczJhVlgzOHR3U1YtZXRnQ2lhMnYyVE9QcG11cjdGUG83OWRWLWJQM1VNRFBRRVJYMllDYjRRVjl2X2toYkhTU1V4YXd0dVgwSmFsTW5nMXhFVmNiLTN5dFdlam1SaU5mdVZTUGxmUTJST2Z5T3NGQlRHc3lfSEZBTXJ4NjRYQlZaV3RtTUhCNmc2LVRndVdvdk5EbzNGTHZ5OWUzNFdmd2NFdWFpR3NsS0JSLWpXNGR6MXhINEg0M3FZRmRYZjMzcXhWSWZqblFRdUJBak8xYWFvWDdIRHhHSWhNUlZ4QWJKdVNCM1pQa2stREFnR2haMHJ2cjluWnk5ZGhKcGZFRkRlOTBpaVhXc1AySldudnZqUnpCemxGa1lGZ0ZlV09zWk5la2RlWE9TVEJLMkJWLWtXVzRZa29pdnhlUk5VMlpZTmlYcF80am5tSmJBTjZvYmNCaVpQZFF2UWstQ0pQQ09NUWxEYW13YlNwS2d6ODlxcS02OTJZd1dsRkp2RUE?oc=5\" target=\"_blank\">FHFA\u2019s Pulte Orders Fannie, Freddie to Consider Crypto as Mortgage Asset</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQMW5mcWtySEJMV0lEX1pMZF9yOG1pdTBfcWw3MW5fWGZUQUZjQzNCX3hJVTZCa21kN3JYRk5RWUpEYjk1Nklxel96Y0liVmtBcnNrZEQ0TDVxVFFiSmRsWHZRUmNXT213ZFNVR0pTdFVSWDlUOVhSX0VBcDVVNkZvLWVNUnMtLW5ZZTF5NWRXTHVuSDB0WURTSGNMYzVacEg1ZGw3SG9Zc09WUTg5eGhvRzRtZlpaOUduZE9RM0tONEZ3Q0s3MWRNdGlPa3ZlMVdMUFo3VFVsdm9YSm5tSDNYenJncVk1dl9TLTFIbHczRkNIcDhkS1ZSQlgzcndLTGNwUkU0OERqeG95U0h4V0N6TDEzRGREZWZlSmp5MlpENHZ1dlNiNEJnMUFXeWVOWjJiQURhalJsek9haDJHOUk4dy1wZE0yYWRtbEdzX3B1WUExUW5jdTBjeGk5c0YwYzRqU2FoSUIzdXQzeTRwZERrWlJYODFIUnVBUU5Ndk9qd3B0dmJ1ZElSc3lHR1VxMTFKOFVmZTBxYUFlWDR1NUdESHZXYmQ2Z0w2TXA4dElKaU5XZE1QcXZhVHF2OXVRUGs?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwNBVV95cUxQMW5mcWtySEJMV0lEX1pMZF9yOG1pdTBfcWw3MW5fWGZUQUZjQzNCX3hJVTZCa21kN3JYRk5RWUpEYjk1Nklxel96Y0liVmtBcnNrZEQ0TDVxVFFiSmRsWHZRUmNXT213ZFNVR0pTdFVSWDlUOVhSX0VBcDVVNkZvLWVNUnMtLW5ZZTF5NWRXTHVuSDB0WURTSGNMYzVacEg1ZGw3SG9Zc09WUTg5eGhvRzRtZlpaOUduZE9RM0tONEZ3Q0s3MWRNdGlPa3ZlMVdMUFo3VFVsdm9YSm5tSDNYenJncVk1dl9TLTFIbHczRkNIcDhkS1ZSQlgzcndLTGNwUkU0OERqeG95U0h4V0N6TDEzRGREZWZlSmp5MlpENHZ1dlNiNEJnMUFXeWVOWjJiQURhalJsek9haDJHOUk4dy1wZE0yYWRtbEdzX3B1WUExUW5jdTBjeGk5c0YwYzRqU2FoSUIzdXQzeTRwZERrWlJYODFIUnVBUU5Ndk9qd3B0dmJ1ZElSc3lHR1VxMTFKOFVmZTBxYUFlWDR1NUdESHZXYmQ2Z0w2TXA4dElKaU5XZE1QcXZhVHF2OXVRUGs?oc=5\" target=\"_blank\">FHFA\u2019s Pulte Orders Fannie, Freddie to Consider Crypto as Mortgage Asset</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+      "source": "Google News"
+    },
+    {
+      "title": "Watchdog: Pop Up UAE-Based Crypto Fund Dumped $100M Into Trump Crypto Venture Shortly After President Visited Middle East - Accountable US",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMk1fbUNNVTdjZEU0ZUI2Si1pUjJDR1FvSUF5aDhZNHpKVkRVT194X0FxUmwzVG8tdU0zV0Rnb1A0X01rTVNxOWFES0F4V1Y5TEZ3VW0yNWhybEFVcThLTk01amJMeWxpVWRRUnNGV1B5Q1NZR1pSMHRCMWdPSTNOTW9FZzAzdnlyX0lQdU10cU5JNVhxOUJnQzJ5dzVoUzdsdlRwWWVuWE8xV3VOak9NYTFKemo2eXQ4RzByMmdiQU9VM2ZfUmxLN2puUVZUeFZIeVotbnM0dlloYlk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMk1fbUNNVTdjZEU0ZUI2Si1pUjJDR1FvSUF5aDhZNHpKVkRVT194X0FxUmwzVG8tdU0zV0Rnb1A0X01rTVNxOWFES0F4V1Y5TEZ3VW0yNWhybEFVcThLTk01amJMeWxpVWRRUnNGV1B5Q1NZR1pSMHRCMWdPSTNOTW9FZzAzdnlyX0lQdU10cU5JNVhxOUJnQzJ5dzVoUzdsdlRwWWVuWE8xV3VOak9NYTFKemo2eXQ4RzByMmdiQU9VM2ZfUmxLN2puUVZUeFZIeVotbnM0dlloYlk?oc=5\" target=\"_blank\">Watchdog: Pop Up UAE-Based Crypto Fund Dumped $100M Into Trump Crypto Venture Shortly After President Visited Middle East</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Accountable US</font>",
       "source": "Google News"
     },
     {
@@ -350,21 +356,15 @@
       "source": "Google News"
     },
     {
-      "title": "Kraken Launches Crypto\u2019s Attempt at a Venmo-Killer - The Daily Upside",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS0lVTVRubkFKSU9wUG4wM1BoTkE4RTRuX1dKTFRjUFJnMDVaOXlFenFvX056Q2FOUkh6OVVZTGxXU3pMOUJGb2Jyc3Voa2dwZG1ZSi12S1RmVXVENnUyWmZTWXI2Q05XZW9aa2dtaEpxdHBidE1fNW1fYnZhWGpMU2pyaUJQR1gxZDZIZThQZjZIYVZDSS16cm16dVVpd3lpbTNzSmFn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQS0lVTVRubkFKSU9wUG4wM1BoTkE4RTRuX1dKTFRjUFJnMDVaOXlFenFvX056Q2FOUkh6OVVZTGxXU3pMOUJGb2Jyc3Voa2dwZG1ZSi12S1RmVXVENnUyWmZTWXI2Q05XZW9aa2dtaEpxdHBidE1fNW1fYnZhWGpMU2pyaUJQR1gxZDZIZThQZjZIYVZDSS16cm16dVVpd3lpbTNzSmFn?oc=5\" target=\"_blank\">Kraken Launches Crypto\u2019s Attempt at a Venmo-Killer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Upside</font>",
-      "source": "Google News"
-    },
-    {
       "title": "Regulator orders Fannie, Freddie to consider crypto holdings in loan assessments - Reuters",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMTFaNTI4Z2tncXI4LTZVak4tYTN2ZU1GNjhxTGhkZGo5YVhtbHFkWVp2WTdWT3FxN0VVVDBGVU1TVjZLalczOVBIczR1U1ZHcjRucWRNankwNGVPZFQ5anU1N24yQXpYR0NaTHhlWWwzRXVwdThOcW9RcFdGTFlkbzlPcEhyOVJ1c2JQV3ZILTVCR0lEWXh3ZDZ4MllxREZHakh0VkxtcXlVN3JMUlQ3M3JCbVVLUmNqZUdnRlpTakVucHAtZU1WQ0JwbV9XS1VWbVVwOEhXcEd2RWJ2dlFyMEhKTQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMTFaNTI4Z2tncXI4LTZVak4tYTN2ZU1GNjhxTGhkZGo5YVhtbHFkWVp2WTdWT3FxN0VVVDBGVU1TVjZLalczOVBIczR1U1ZHcjRucWRNankwNGVPZFQ5anU1N24yQXpYR0NaTHhlWWwzRXVwdThOcW9RcFdGTFlkbzlPcEhyOVJ1c2JQV3ZILTVCR0lEWXh3ZDZ4MllxREZHakh0VkxtcXlVN3JMUlQ3M3JCbVVLUmNqZUdnRlpTakVucHAtZU1WQ0JwbV9XS1VWbVVwOEhXcEd2RWJ2dlFyMEhKTQ?oc=5\" target=\"_blank\">Regulator orders Fannie, Freddie to consider crypto holdings in loan assessments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "source": "Google News"
     },
     {
-      "title": "Crypto seed phrase, front-end hacks drive record losses in 2025: TRM Labs - Cointelegraph",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcUY2bXRpU0sxMEItUTVkTXJCOVJWRjYzRHZzQVJXMmNUUU8wd3dhbG03ZG0yS092dW90aGpGY0Nzd1pBeDZMRXFEQXZHS3hwT0U3XzE0bk4wUzdSX0ZtOUxIOVFQUVRuN2NxUWtvbW1oMXdFRHFiTXZlc0s4OS04RVluSmtScnlPVkx5aEN3WFFwQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOcUY2bXRpU0sxMEItUTVkTXJCOVJWRjYzRHZzQVJXMmNUUU8wd3dhbG03ZG0yS092dW90aGpGY0Nzd1pBeDZMRXFEQXZHS3hwT0U3XzE0bk4wUzdSX0ZtOUxIOVFQUVRuN2NxUWtvbW1oMXdFRHFiTXZlc0s4OS04RVluSmtScnlPVkx5aEN3WFFwQQ?oc=5\" target=\"_blank\">Crypto seed phrase, front-end hacks drive record losses in 2025: TRM Labs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cointelegraph</font>",
+      "title": "Trump\u2019s World Liberty Gains Another International Crypto Partner - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT0RDcUpOUVkzWFZxeGZLQU15d0xQLVlaczBBZi1POUR4MDFhLVdkalJHUG1YZ2VCckJEZFNYZm9fMjlvNDJGdWY3QVVlV2RPX3hKazRTM1pUNFVDR1ByZDRoVzlYay14T2xqV2hEdmljQVV5NGJIeDBVZEI4R1BpS0t0OEU4LWtUMkx2MHd2bHhlRkt5M3dEZEoxdk5DMWZEN2licFB6b1FuZ0FiMk1DT3ZBVVlaZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPT0RDcUpOUVkzWFZxeGZLQU15d0xQLVlaczBBZi1POUR4MDFhLVdkalJHUG1YZ2VCckJEZFNYZm9fMjlvNDJGdWY3QVVlV2RPX3hKazRTM1pUNFVDR1ByZDRoVzlYay14T2xqV2hEdmljQVV5NGJIeDBVZEI4R1BpS0t0OEU4LWtUMkx2MHd2bHhlRkt5M3dEZEoxdk5DMWZEN2licFB6b1FuZ0FiMk1DT3ZBVVlaZw?oc=5\" target=\"_blank\">Trump\u2019s World Liberty Gains Another International Crypto Partner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
       "source": "Google News"
     },
     {
@@ -380,9 +380,21 @@
       "source": "Google News"
     },
     {
+      "title": "Crypto seed phrase, front-end hacks drive record losses in 2025: TRM Labs - Cointelegraph",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcUY2bXRpU0sxMEItUTVkTXJCOVJWRjYzRHZzQVJXMmNUUU8wd3dhbG03ZG0yS092dW90aGpGY0Nzd1pBeDZMRXFEQXZHS3hwT0U3XzE0bk4wUzdSX0ZtOUxIOVFQUVRuN2NxUWtvbW1oMXdFRHFiTXZlc0s4OS04RVluSmtScnlPVkx5aEN3WFFwQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOcUY2bXRpU0sxMEItUTVkTXJCOVJWRjYzRHZzQVJXMmNUUU8wd3dhbG03ZG0yS092dW90aGpGY0Nzd1pBeDZMRXFEQXZHS3hwT0U3XzE0bk4wUzdSX0ZtOUxIOVFQUVRuN2NxUWtvbW1oMXdFRHFiTXZlc0s4OS04RVluSmtScnlPVkx5aEN3WFFwQQ?oc=5\" target=\"_blank\">Crypto seed phrase, front-end hacks drive record losses in 2025: TRM Labs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cointelegraph</font>",
+      "source": "Google News"
+    },
+    {
       "title": "Trump-backed crypto firm is planning stablecoin audit, new app - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYkdmX3AwbXlGOXVPZ2lTM0JwTWFpeXRvQ3d0bFhCeDYxSGZsWTNLamlOeHB4ZWJ1WUdfZ25BanVhVHdLU3U0dmFoM3c1NDlWNXRGX25KSEg4RkJOdFFYdDlfX2F5R0RmQ3pRWTBsYlhrampxYzU3dVRJMmtUakctcmNlM3VSMHVyXzZxQUZCTlFoeTdCTWQ2Yml1NnIycHhUd1JBR1c4MGRYRGpVcTVZdVRZbUQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOYkdmX3AwbXlGOXVPZ2lTM0JwTWFpeXRvQ3d0bFhCeDYxSGZsWTNLamlOeHB4ZWJ1WUdfZ25BanVhVHdLU3U0dmFoM3c1NDlWNXRGX25KSEg4RkJOdFFYdDlfX2F5R0RmQ3pRWTBsYlhrampxYzU3dVRJMmtUakctcmNlM3VSMHVyXzZxQUZCTlFoeTdCTWQ2Yml1NnIycHhUd1JBR1c4MGRYRGpVcTVZdVRZbUQ?oc=5\" target=\"_blank\">Trump-backed crypto firm is planning stablecoin audit, new app</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "source": "Google News"
+    },
+    {
+      "title": "Kraken Launches Crypto\u2019s Attempt at a Venmo-Killer - The Daily Upside",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS0lVTVRubkFKSU9wUG4wM1BoTkE4RTRuX1dKTFRjUFJnMDVaOXlFenFvX056Q2FOUkh6OVVZTGxXU3pMOUJGb2Jyc3Voa2dwZG1ZSi12S1RmVXVENnUyWmZTWXI2Q05XZW9aa2dtaEpxdHBidE1fNW1fYnZhWGpMU2pyaUJQR1gxZDZIZThQZjZIYVZDSS16cm16dVVpd3lpbTNzSmFn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQS0lVTVRubkFKSU9wUG4wM1BoTkE4RTRuX1dKTFRjUFJnMDVaOXlFenFvX056Q2FOUkh6OVVZTGxXU3pMOUJGb2Jyc3Voa2dwZG1ZSi12S1RmVXVENnUyWmZTWXI2Q05XZW9aa2dtaEpxdHBidE1fNW1fYnZhWGpMU2pyaUJQR1gxZDZIZThQZjZIYVZDSS16cm16dVVpd3lpbTNzSmFn?oc=5\" target=\"_blank\">Kraken Launches Crypto\u2019s Attempt at a Venmo-Killer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Upside</font>",
       "source": "Google News"
     },
     {
@@ -392,21 +404,21 @@
       "source": "Google News"
     },
     {
+      "title": "Federal Regulator Opens Doors to Considering Crypto in Mortgage Applications - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR3hOSnNOLTh1d2xnOUN2UDZmbWxsUlplZUVkYnlrclJmeGRhTWpVNWxKNWJzT2c3akhQTHhReEs3NDZaeUR6SUIzTlQ4SmlkR1hRaTAtR3VzeFJsVjhJS3JXazl1YW9kbEFNTXpNbXNsTVVIUTl5emozVjJhSXZZQVMwOXlHdnB2UHU4NjZLaG51NjRmMWtSYWl3LTV0Zjk2SDdfQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNR3hOSnNOLTh1d2xnOUN2UDZmbWxsUlplZUVkYnlrclJmeGRhTWpVNWxKNWJzT2c3akhQTHhReEs3NDZaeUR6SUIzTlQ4SmlkR1hRaTAtR3VzeFJsVjhJS3JXazl1YW9kbEFNTXpNbXNsTVVIUTl5emozVjJhSXZZQVMwOXlHdnB2UHU4NjZLaG51NjRmMWtSYWl3LTV0Zjk2SDdfQQ?oc=5\" target=\"_blank\">Federal Regulator Opens Doors to Considering Crypto in Mortgage Applications</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>",
+      "source": "Google News"
+    },
+    {
       "title": "Mortgage Rule Change Adds Crypto. What Homebuyers Should Know - Forbes",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVEtNdjNPZTVUdW9HdjhZdnBnN201dEIzQ3BBb0RFTkVtdGhXUnl0OUlYQnFOenlFTkRJUkVhNzFrbEpLMDExYW9LWW4ydG9oQ3ZTYXZ3ODF4U3lpLWFibk11eXNuTUtUQnlYVGs1UnFZRlJJcThkS3BxdGQ0UVUwQVJqVVc3eW5DeFJsZmFsb09oUkNzVkgyeEhESUJPRjBGaEloNTZvNGZTTC1RaFJSNHRTS2t0UQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPVEtNdjNPZTVUdW9HdjhZdnBnN201dEIzQ3BBb0RFTkVtdGhXUnl0OUlYQnFOenlFTkRJUkVhNzFrbEpLMDExYW9LWW4ydG9oQ3ZTYXZ3ODF4U3lpLWFibk11eXNuTUtUQnlYVGs1UnFZRlJJcThkS3BxdGQ0UVUwQVJqVVc3eW5DeFJsZmFsb09oUkNzVkgyeEhESUJPRjBGaEloNTZvNGZTTC1RaFJSNHRTS2t0UQ?oc=5\" target=\"_blank\">Mortgage Rule Change Adds Crypto. What Homebuyers Should Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
       "source": "Google News"
     },
     {
-      "title": "Cango Inc. Announces Closing of Share-Settled Crypto Mining Assets Acquisitions - Morningstar",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeUpvM2JybTItYWpCSnowN3ZkRXpoSmtVMkYweXozMHI1bXFKOHhrdFh6N25Yb01OS2VWenAta29JSElVRUhIUE10N2tfR01RbnNDdGczTE1LZzNXb1hGZ3k2LThjdUF0bUVwVmxZS0Z6SUZvSkd3Q0lSNUh1eWhwdFVZOUJGcERHc1RHX0pRZ2xKZVc0QUlHODVqdnoyV0x0QXdlQXRMVm40WnMwd0JaZVpsc1hicjVyRDZrUnVnZGNoWC1wOWpuNkZ0LU9ZNUhud2wxMlJB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeUpvM2JybTItYWpCSnowN3ZkRXpoSmtVMkYweXozMHI1bXFKOHhrdFh6N25Yb01OS2VWenAta29JSElVRUhIUE10N2tfR01RbnNDdGczTE1LZzNXb1hGZ3k2LThjdUF0bUVwVmxZS0Z6SUZvSkd3Q0lSNUh1eWhwdFVZOUJGcERHc1RHX0pRZ2xKZVc0QUlHODVqdnoyV0x0QXdlQXRMVm40WnMwd0JaZVpsc1hicjVyRDZrUnVnZGNoWC1wOWpuNkZ0LU9ZNUhud2wxMlJB?oc=5\" target=\"_blank\">Cango Inc. Announces Closing of Share-Settled Crypto Mining Assets Acquisitions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "source": "Google News"
-    },
-    {
-      "title": "Key U.S. Senator Tells White House Crypto Market Structure Bill Will Be Done by Sept. 30 - CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN2JjMDFsTjNrUkgwakh5WGpQQy00Y1BlX0llVHY5MmY0WS0yV19UUXNqdWFyUWswdnBWcDNzV3lYRV9NZ0R3dmtNLWxLdmo3cDB6VG11QlF3NWM3ZDgwNFNhQVROSzNxX3NEVHJSWmM5YzdoUzcwOVpiX3U2VEUxM3dsdDNKbWhLclNKSFRXRHBXZmlhQ01ZX2Fod0staV80bk5lazd5bi1TTWZsSFFmc196SzFvX3lJY2h0VHJOaVRkaVJrS1JV?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPN2JjMDFsTjNrUkgwakh5WGpQQy00Y1BlX0llVHY5MmY0WS0yV19UUXNqdWFyUWswdnBWcDNzV3lYRV9NZ0R3dmtNLWxLdmo3cDB6VG11QlF3NWM3ZDgwNFNhQVROSzNxX3NEVHJSWmM5YzdoUzcwOVpiX3U2VEUxM3dsdDNKbWhLclNKSFRXRHBXZmlhQ01ZX2Fod0staV80bk5lazd5bi1TTWZsSFFmc196SzFvX3lJY2h0VHJOaVRkaVJrS1JV?oc=5\" target=\"_blank\">Key U.S. Senator Tells White House Crypto Market Structure Bill Will Be Done by Sept. 30</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinDesk</font>",
+      "title": "Crypto payments abroad may be legal despite domestic bans in several countries - Cointelegraph",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYTFVeTJNT3gtMXExYnlyTzJ5WmFtQmpEVDNKNjBROWZyX3F0bGs4V0h3R3dxOUhZaWVTYXF4RW5COGFhOWxYVDdXNng0YlkwSEtVSEdCMjkxVVpCczRQNlZtSFo4ZkpfZS1Gc3Z1a0FXd2l4WU5PNU1lNzRXbE1QWUxGMA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPYTFVeTJNT3gtMXExYnlyTzJ5WmFtQmpEVDNKNjBROWZyX3F0bGs4V0h3R3dxOUhZaWVTYXF4RW5COGFhOWxYVDdXNng0YlkwSEtVSEdCMjkxVVpCczRQNlZtSFo4ZkpfZS1Gc3Z1a0FXd2l4WU5PNU1lNzRXbE1QWUxGMA?oc=5\" target=\"_blank\">Crypto payments abroad may be legal despite domestic bans in several countries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cointelegraph</font>",
       "source": "Google News"
     },
     {
@@ -422,21 +434,33 @@
       "source": "Google News"
     },
     {
+      "title": "Key U.S. Senator Tells White House Crypto Market Structure Bill Will Be Done by Sept. 30 - CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN2JjMDFsTjNrUkgwakh5WGpQQy00Y1BlX0llVHY5MmY0WS0yV19UUXNqdWFyUWswdnBWcDNzV3lYRV9NZ0R3dmtNLWxLdmo3cDB6VG11QlF3NWM3ZDgwNFNhQVROSzNxX3NEVHJSWmM5YzdoUzcwOVpiX3U2VEUxM3dsdDNKbWhLclNKSFRXRHBXZmlhQ01ZX2Fod0staV80bk5lazd5bi1TTWZsSFFmc196SzFvX3lJY2h0VHJOaVRkaVJrS1JV?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPN2JjMDFsTjNrUkgwakh5WGpQQy00Y1BlX0llVHY5MmY0WS0yV19UUXNqdWFyUWswdnBWcDNzV3lYRV9NZ0R3dmtNLWxLdmo3cDB6VG11QlF3NWM3ZDgwNFNhQVROSzNxX3NEVHJSWmM5YzdoUzcwOVpiX3U2VEUxM3dsdDNKbWhLclNKSFRXRHBXZmlhQ01ZX2Fod0staV80bk5lazd5bi1TTWZsSFFmc196SzFvX3lJY2h0VHJOaVRkaVJrS1JV?oc=5\" target=\"_blank\">Key U.S. Senator Tells White House Crypto Market Structure Bill Will Be Done by Sept. 30</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinDesk</font>",
+      "source": "Google News"
+    },
+    {
+      "title": "Cango Inc. Announces Closing of Share-Settled Crypto Mining Assets Acquisitions - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeUpvM2JybTItYWpCSnowN3ZkRXpoSmtVMkYweXozMHI1bXFKOHhrdFh6N25Yb01OS2VWenAta29JSElVRUhIUE10N2tfR01RbnNDdGczTE1LZzNXb1hGZ3k2LThjdUF0bUVwVmxZS0Z6SUZvSkd3Q0lSNUh1eWhwdFVZOUJGcERHc1RHX0pRZ2xKZVc0QUlHODVqdnoyV0x0QXdlQXRMVm40WnMwd0JaZVpsc1hicjVyRDZrUnVnZGNoWC1wOWpuNkZ0LU9ZNUhud2wxMlJB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeUpvM2JybTItYWpCSnowN3ZkRXpoSmtVMkYweXozMHI1bXFKOHhrdFh6N25Yb01OS2VWenAta29JSElVRUhIUE10N2tfR01RbnNDdGczTE1LZzNXb1hGZ3k2LThjdUF0bUVwVmxZS0Z6SUZvSkd3Q0lSNUh1eWhwdFVZOUJGcERHc1RHX0pRZ2xKZVc0QUlHODVqdnoyV0x0QXdlQXRMVm40WnMwd0JaZVpsc1hicjVyRDZrUnVnZGNoWC1wOWpuNkZ0LU9ZNUhud2wxMlJB?oc=5\" target=\"_blank\">Cango Inc. Announces Closing of Share-Settled Crypto Mining Assets Acquisitions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "source": "Google News"
+    },
+    {
       "title": "Hackers already bagged a record $2.1bn in stolen crypto this year, says TRM Labs - dlnews.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV1poNXd6UHdjdDRweUxtTHprNmJ6LWR4WE5nQTRCSEM2M0tUOVozOTZfc2JaVVl2MXRLd3FuVFE5VHc0Qk9vWEVMeVZsUVJiZGFVM0UtR1czaVk3cUIxZHg4cFdlSzVlNVBHNVQ4cHVEVktmYmUxSG9Ta0xSNkpvYW1CWmJaYW5RYVRGaF9BSGJIbmd2b09QMXRn?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOV1poNXd6UHdjdDRweUxtTHprNmJ6LWR4WE5nQTRCSEM2M0tUOVozOTZfc2JaVVl2MXRLd3FuVFE5VHc0Qk9vWEVMeVZsUVJiZGFVM0UtR1czaVk3cUIxZHg4cFdlSzVlNVBHNVQ4cHVEVktmYmUxSG9Ta0xSNkpvYW1CWmJaYW5RYVRGaF9BSGJIbmd2b09QMXRn?oc=5\" target=\"_blank\">Hackers already bagged a record $2.1bn in stolen crypto this year, says TRM Labs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dlnews.com</font>",
       "source": "Google News"
     },
     {
-      "title": "Grayscale's top 20 crypto picks include Avalanche and Morpho, skips heavyweights XRP, ADA - CryptoSlate",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ1VjVV9ZREZjU3Bza2EwYjN6blF1Ym1Vai00U1RlbmFVWF83QXB2NEwxQTVHSnFjaTN3T3Fmak1kdXFtczN1N0t2Sy1KbUo5MFBRWGZoNV9vbElKLUw5YjVBWVpFOGx6dk1LWnFmZWFzc0RIMEItdVhydF9fc244V1BkSHM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ1VjVV9ZREZjU3Bza2EwYjN6blF1Ym1Vai00U1RlbmFVWF83QXB2NEwxQTVHSnFjaTN3T3Fmak1kdXFtczN1N0t2Sy1KbUo5MFBRWGZoNV9vbElKLUw5YjVBWVpFOGx6dk1LWnFmZWFzc0RIMEItdVhydF9fc244V1BkSHM?oc=5\" target=\"_blank\">Grayscale's top 20 crypto picks include Avalanche and Morpho, skips heavyweights XRP, ADA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoSlate</font>",
-      "source": "Google News"
-    },
-    {
       "title": "Crypto rises even after Iran launches missiles in response to U.S. strikes: CNBC Crypto World - CNBC",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbEpCZUo4TG9iMWdHSEROWkVnNXBncTBOVGFvdXpnc2ZWNkhVYU5ta05EOGd4b1p2Z0dyYlJZektHVG9PV011YWh4QThWODFqRzBLMUU5MGNXRG1Hdzd3Rm5tRUxySWhETEdiQmVmUlc0bENkXy0wck00X3FGQ0tQOEdQeW5VdjFZSjRZZlpXWWhCRnlaWlF1ZmVHQ0VhY2U5TS1VWjhPakRvRDVzVVlxUw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNbEpCZUo4TG9iMWdHSEROWkVnNXBncTBOVGFvdXpnc2ZWNkhVYU5ta05EOGd4b1p2Z0dyYlJZektHVG9PV011YWh4QThWODFqRzBLMUU5MGNXRG1Hdzd3Rm5tRUxySWhETEdiQmVmUlc0bENkXy0wck00X3FGQ0tQOEdQeW5VdjFZSjRZZlpXWWhCRnlaWlF1ZmVHQ0VhY2U5TS1VWjhPakRvRDVzVVlxUw?oc=5\" target=\"_blank\">Crypto rises even after Iran launches missiles in response to U.S. strikes: CNBC Crypto World</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "source": "Google News"
+    },
+    {
+      "title": "Grayscale's top 20 crypto picks include Avalanche and Morpho, skips heavyweights XRP, ADA - CryptoSlate",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ1VjVV9ZREZjU3Bza2EwYjN6blF1Ym1Vai00U1RlbmFVWF83QXB2NEwxQTVHSnFjaTN3T3Fmak1kdXFtczN1N0t2Sy1KbUo5MFBRWGZoNV9vbElKLUw5YjVBWVpFOGx6dk1LWnFmZWFzc0RIMEItdVhydF9fc244V1BkSHM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ1VjVV9ZREZjU3Bza2EwYjN6blF1Ym1Vai00U1RlbmFVWF83QXB2NEwxQTVHSnFjaTN3T3Fmak1kdXFtczN1N0t2Sy1KbUo5MFBRWGZoNV9vbElKLUw5YjVBWVpFOGx6dk1LWnFmZWFzc0RIMEItdVhydF9fc244V1BkSHM?oc=5\" target=\"_blank\">Grayscale's top 20 crypto picks include Avalanche and Morpho, skips heavyweights XRP, ADA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoSlate</font>",
       "source": "Google News"
     },
     {
@@ -458,6 +482,12 @@
       "source": "Google News"
     },
     {
+      "title": "Bitcoin price rises as Israel-Iran ceasefire begins, and Senate unveils major crypto bill - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdzlXV2loUnZ3aUNQbHU1Y0NzQTdpZXhJX3BLVWotU3lLN0NYenFnYkZ6YkRCandxd3A2Vk9fTjBBZzN5M2FVbnppMWE3M010U0pMYzduQ0tMR0JHNmljbUlJcXdjeWdlYV9LTmwxRkhCMFllb3FYaHhjMEd4OGhsbVFRQWZaLURfUkxocE9maGxoeFhxSzdRZEVwTGFFNVBLNlRIOGFlaC1Ld9IBrwFBVV95cUxOVVRXZ2RscFN1SDE1eE4wb0xKY0x4RHlseGtrMHE5NnRqX2xGTEdwY3lsVnBBRWlIRGlyeWp5aFI1c0Q3bE1QNzdwV2dBN3g1MTZuNWZQRDE3LVVTa3pTU0EwT2szN1VfTHB6ajJVMnRBZkFTVGNtbGVtcGpFcUxRQk0xeVdFbHo2OC1hNThzZlZ4VHY2VGpPczNXQ1pRUEppNG83eHFTMUdSVlRZbF9j?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdzlXV2loUnZ3aUNQbHU1Y0NzQTdpZXhJX3BLVWotU3lLN0NYenFnYkZ6YkRCandxd3A2Vk9fTjBBZzN5M2FVbnppMWE3M010U0pMYzduQ0tMR0JHNmljbUlJcXdjeWdlYV9LTmwxRkhCMFllb3FYaHhjMEd4OGhsbVFRQWZaLURfUkxocE9maGxoeFhxSzdRZEVwTGFFNVBLNlRIOGFlaC1Ld9IBrwFBVV95cUxOVVRXZ2RscFN1SDE1eE4wb0xKY0x4RHlseGtrMHE5NnRqX2xGTEdwY3lsVnBBRWlIRGlyeWp5aFI1c0Q3bE1QNzdwV2dBN3g1MTZuNWZQRDE3LVVTa3pTU0EwT2szN1VfTHB6ajJVMnRBZkFTVGNtbGVtcGpFcUxRQk0xeVdFbHo2OC1hNThzZlZ4VHY2VGpPczNXQ1pRUEppNG83eHFTMUdSVlRZbF9j?oc=5\" target=\"_blank\">Bitcoin price rises as Israel-Iran ceasefire begins, and Senate unveils major crypto bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "source": "Google News"
+    },
+    {
       "title": "Crypto Industry Loses $2.1 Billion to Hacks in 2025 First Half - AInvest",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbGdEemptTWQwX2h5akNqTU5IVlIteW1hS0NvcVNBVGVpSnVpMHI4NmFzNUh4eHR6WVl3NTl6R2hLRWV4UmJ6MXAzb3JDZmstQ1B0NHFMRFd6MHVLVHU5TzAxYncwNEtNWVJESEVfZ2NpSEZUMWZ2WUpBWHdncVBmaEdzSHBYUQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQbGdEemptTWQwX2h5akNqTU5IVlIteW1hS0NvcVNBVGVpSnVpMHI4NmFzNUh4eHR6WVl3NTl6R2hLRWV4UmJ6MXAzb3JDZmstQ1B0NHFMRFd6MHVLVHU5TzAxYncwNEtNWVJESEVfZ2NpSEZUMWZ2WUpBWHdncVBmaEdzSHBYUQ?oc=5\" target=\"_blank\">Crypto Industry Loses $2.1 Billion to Hacks in 2025 First Half</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AInvest</font>",
@@ -476,9 +506,9 @@
       "source": "Google News"
     },
     {
-      "title": "Bitcoin price rises as Israel-Iran ceasefire begins, and Senate unveils major crypto bill - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdzlXV2loUnZ3aUNQbHU1Y0NzQTdpZXhJX3BLVWotU3lLN0NYenFnYkZ6YkRCandxd3A2Vk9fTjBBZzN5M2FVbnppMWE3M010U0pMYzduQ0tMR0JHNmljbUlJcXdjeWdlYV9LTmwxRkhCMFllb3FYaHhjMEd4OGhsbVFRQWZaLURfUkxocE9maGxoeFhxSzdRZEVwTGFFNVBLNlRIOGFlaC1Ld9IBrwFBVV95cUxOVVRXZ2RscFN1SDE1eE4wb0xKY0x4RHlseGtrMHE5NnRqX2xGTEdwY3lsVnBBRWlIRGlyeWp5aFI1c0Q3bE1QNzdwV2dBN3g1MTZuNWZQRDE3LVVTa3pTU0EwT2szN1VfTHB6ajJVMnRBZkFTVGNtbGVtcGpFcUxRQk0xeVdFbHo2OC1hNThzZlZ4VHY2VGpPczNXQ1pRUEppNG83eHFTMUdSVlRZbF9j?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdzlXV2loUnZ3aUNQbHU1Y0NzQTdpZXhJX3BLVWotU3lLN0NYenFnYkZ6YkRCandxd3A2Vk9fTjBBZzN5M2FVbnppMWE3M010U0pMYzduQ0tMR0JHNmljbUlJcXdjeWdlYV9LTmwxRkhCMFllb3FYaHhjMEd4OGhsbVFRQWZaLURfUkxocE9maGxoeFhxSzdRZEVwTGFFNVBLNlRIOGFlaC1Ld9IBrwFBVV95cUxOVVRXZ2RscFN1SDE1eE4wb0xKY0x4RHlseGtrMHE5NnRqX2xGTEdwY3lsVnBBRWlIRGlyeWp5aFI1c0Q3bE1QNzdwV2dBN3g1MTZuNWZQRDE3LVVTa3pTU0EwT2szN1VfTHB6ajJVMnRBZkFTVGNtbGVtcGpFcUxRQk0xeVdFbHo2OC1hNThzZlZ4VHY2VGpPczNXQ1pRUEppNG83eHFTMUdSVlRZbF9j?oc=5\" target=\"_blank\">Bitcoin price rises as Israel-Iran ceasefire begins, and Senate unveils major crypto bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "title": "Crypto Market Stalls as BTC Nears Resistance While TradFi Rallies - KITCO",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcVJkdHRyaVJ6S2oxV0pydmVaWDhwRno5UXQ2dzFtcmJDVjFWY0xkcVdNOWdET05VLV9GdWxGVGpEMkRXbDdJTzVyWHIyaWJJS3lGMjF3SzNkbTdtbk9CYUd3aFJYQVBIcTdHRXlPeVdsaFZZM1RndkxrbVVPVzlwMUlzRnRyZ0kxV3NZOEVUOHU2eTJvaGZncWtXeEU5M1FXM3N4X0Fn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNcVJkdHRyaVJ6S2oxV0pydmVaWDhwRno5UXQ2dzFtcmJDVjFWY0xkcVdNOWdET05VLV9GdWxGVGpEMkRXbDdJTzVyWHIyaWJJS3lGMjF3SzNkbTdtbk9CYUd3aFJYQVBIcTdHRXlPeVdsaFZZM1RndkxrbVVPVzlwMUlzRnRyZ0kxV3NZOEVUOHU2eTJvaGZncWtXeEU5M1FXM3N4X0Fn?oc=5\" target=\"_blank\">Crypto Market Stalls as BTC Nears Resistance While TradFi Rallies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KITCO</font>",
       "source": "Google News"
     },
     {
@@ -488,15 +518,15 @@
       "source": "Google News"
     },
     {
-      "title": "The Trump administration wants crypto to help you get a mortgage - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRlhVTy1IanpEMGxqcFJaTHh1bEpUT3I5bWhNUmtqYnFmYndhNUZfMGgzcnFYM3pTUThWR0ZfZlpHbExCczA2cU5GdFIydFB3a3hmdTZGTjFQRktPdTdpNm1rX2c4MS1rSF91b0YzSVZnWEJvZXZ2VklkaWJOVWk2RG5ieV9TXy1TUVE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQRlhVTy1IanpEMGxqcFJaTHh1bEpUT3I5bWhNUmtqYnFmYndhNUZfMGgzcnFYM3pTUThWR0ZfZlpHbExCczA2cU5GdFIydFB3a3hmdTZGTjFQRktPdTdpNm1rX2c4MS1rSF91b0YzSVZnWEJvZXZ2VklkaWJOVWk2RG5ieV9TXy1TUVE?oc=5\" target=\"_blank\">The Trump administration wants crypto to help you get a mortgage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
-      "source": "Google News"
-    },
-    {
       "title": "Crypto rules of the road framework unveiled by Republican senators - CNBC",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaUw2T3Z4VS01RWVYYU5QcWdFS3AzLXljQU1MYS1KM0IyUmZrUnNUOFFwZ2RKWmVxb1RjRjN3dHNYSWF3ME1xWGd2NDAyV0hEc3BoSVhhWFpGRWFoYno1dkZSbVVfc2hXTFFPT3J4OGxQVTZheERpMGhyV3NxbkMzZmVjaFlQaFpzYkNVek1uMll0ZlJFc0R4b1c5QXJaejViMDZDSGNpWdIBrAFBVV95cUxNTEVjeXRLbS1SV2lhV1dTTzZBUWFSbF9hQ2FCcW1laXVrLXdiWjZBUHFEbkRlb0ZjaTdRSF9YRG1abXU3Y1pIWWR5RHVON2pjYkx1T1NMUDNGTDBmREFuS1RFNGhJMThNN3l2RXhhS0ZCOHNmdVFxaUpwMlJ5amVfeFA2T2JqWHN4ZnhSQXJkdHFySlJrSVBxYktjSUZVU0txTVkyWF8wUC1KZzhG?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQaUw2T3Z4VS01RWVYYU5QcWdFS3AzLXljQU1MYS1KM0IyUmZrUnNUOFFwZ2RKWmVxb1RjRjN3dHNYSWF3ME1xWGd2NDAyV0hEc3BoSVhhWFpGRWFoYno1dkZSbVVfc2hXTFFPT3J4OGxQVTZheERpMGhyV3NxbkMzZmVjaFlQaFpzYkNVek1uMll0ZlJFc0R4b1c5QXJaejViMDZDSGNpWdIBrAFBVV95cUxNTEVjeXRLbS1SV2lhV1dTTzZBUWFSbF9hQ2FCcW1laXVrLXdiWjZBUHFEbkRlb0ZjaTdRSF9YRG1abXU3Y1pIWWR5RHVON2pjYkx1T1NMUDNGTDBmREFuS1RFNGhJMThNN3l2RXhhS0ZCOHNmdVFxaUpwMlJ5amVfeFA2T2JqWHN4ZnhSQXJkdHFySlJrSVBxYktjSUZVU0txTVkyWF8wUC1KZzhG?oc=5\" target=\"_blank\">Crypto rules of the road framework unveiled by Republican senators</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "source": "Google News"
+    },
+    {
+      "title": "Here\u2019s what happened in crypto today - Cointelegraph",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xUFBJQThycEJ2Y2Y5V2lZaFVfTEE0NjlDWGtDcW96NUhPYnFxamhmV0lMSHM3NlBWVUZ2SnNVci1CbHI0OWhFRVZOWXpsLWFHdS1TeWVJZkY5V0NacFY4cTdsYWQxQ3dMcDEtdQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE0xUFBJQThycEJ2Y2Y5V2lZaFVfTEE0NjlDWGtDcW96NUhPYnFxamhmV0lMSHM3NlBWVUZ2SnNVci1CbHI0OWhFRVZOWXpsLWFHdS1TeWVJZkY5V0NacFY4cTdsYWQxQ3dMcDEtdQ?oc=5\" target=\"_blank\">Here\u2019s what happened in crypto today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cointelegraph</font>",
       "source": "Google News"
     },
     {
@@ -506,9 +536,9 @@
       "source": "Google News"
     },
     {
-      "title": "Crypto Market Stalls as BTC Nears Resistance While TradFi Rallies - KITCO",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcVJkdHRyaVJ6S2oxV0pydmVaWDhwRno5UXQ2dzFtcmJDVjFWY0xkcVdNOWdET05VLV9GdWxGVGpEMkRXbDdJTzVyWHIyaWJJS3lGMjF3SzNkbTdtbk9CYUd3aFJYQVBIcTdHRXlPeVdsaFZZM1RndkxrbVVPVzlwMUlzRnRyZ0kxV3NZOEVUOHU2eTJvaGZncWtXeEU5M1FXM3N4X0Fn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNcVJkdHRyaVJ6S2oxV0pydmVaWDhwRno5UXQ2dzFtcmJDVjFWY0xkcVdNOWdET05VLV9GdWxGVGpEMkRXbDdJTzVyWHIyaWJJS3lGMjF3SzNkbTdtbk9CYUd3aFJYQVBIcTdHRXlPeVdsaFZZM1RndkxrbVVPVzlwMUlzRnRyZ0kxV3NZOEVUOHU2eTJvaGZncWtXeEU5M1FXM3N4X0Fn?oc=5\" target=\"_blank\">Crypto Market Stalls as BTC Nears Resistance While TradFi Rallies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KITCO</font>",
+      "title": "ASC files complaints to seize over $125,000 in crypto for Alabama pig butchering victims - Gulf Coast Media",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb2Q1UkRVbV9vNUVhQTF5VDNaeW41WHJOM0p1Wm5BZmU3VjVobTBiUVBQaWFZQkR3NUdzU1RWOXRDclA1VGpPM2FtS1pYMnZUbUFaZHlvWnZfVFFlUk41QUlMbDNnSXZoNnN3WW9scVdJZEdnSWdaUUFmMnktcEFlYjZuVHBlSm5XXzkzajZJMFNGd3FTTExGTGV2X1ZEOGpZVHpkcXBuUUtNSWRJd2ZTME5hNVhQRXFiZENDNmFoaEQ0YWhIc3V4QnZGTQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOb2Q1UkRVbV9vNUVhQTF5VDNaeW41WHJOM0p1Wm5BZmU3VjVobTBiUVBQaWFZQkR3NUdzU1RWOXRDclA1VGpPM2FtS1pYMnZUbUFaZHlvWnZfVFFlUk41QUlMbDNnSXZoNnN3WW9scVdJZEdnSWdaUUFmMnktcEFlYjZuVHBlSm5XXzkzajZJMFNGd3FTTExGTGV2X1ZEOGpZVHpkcXBuUUtNSWRJd2ZTME5hNVhQRXFiZENDNmFoaEQ0YWhIc3V4QnZGTQ?oc=5\" target=\"_blank\">ASC files complaints to seize over $125,000 in crypto for Alabama pig butchering victims</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gulf Coast Media</font>",
       "source": "Google News"
     },
     {
@@ -518,21 +548,27 @@
       "source": "Google News"
     },
     {
-      "title": "Cango Takes Major Crypto Mining Leap: Acquires Massive 18 Exahash Operation Across Multiple Countries - Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd21XQXlGQnNzOG4wSjluV3o1NVVuRzgxbGFYWjZGQXVmbElDSkZjSUYydTRVTmEzZDB0RnA2czJYUmZNYmpmMHAwcmJ3ZmZ6VjNOVUJIOW5PQmF5dUFncV9VNDV5S0M1T24taEJpUlM1d1lyN2RuN2JqektSMDAxZFZaTlRpdXZ0SVJJbllzMk9fejhRNko4RU5GSmVHWEhnaEhIQzA3Zmh5QXA2Z3VYczdZaHduMGRPeE5EaA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNd21XQXlGQnNzOG4wSjluV3o1NVVuRzgxbGFYWjZGQXVmbElDSkZjSUYydTRVTmEzZDB0RnA2czJYUmZNYmpmMHAwcmJ3ZmZ6VjNOVUJIOW5PQmF5dUFncV9VNDV5S0M1T24taEJpUlM1d1lyN2RuN2JqektSMDAxZFZaTlRpdXZ0SVJJbllzMk9fejhRNko4RU5GSmVHWEhnaEhIQzA3Zmh5QXA2Z3VYczdZaHduMGRPeE5EaA?oc=5\" target=\"_blank\">Cango Takes Major Crypto Mining Leap: Acquires Massive 18 Exahash Operation Across Multiple Countries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
-      "source": "Google News"
-    },
-    {
       "title": "Fed's Powell says Bitcoin and crypto have matured and become more mainstream - Crypto Briefing",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VUFk2czJoUWFmUGRlOVpld056RFpQb3E3djRUSFJCX1NuU3dkNGFpZ19lYk9mM3RKYmpiM0xLQ19BekpTMXVvdGhEQ1lCekdMRThTcWJQWG5mQy1TeHRYOVpKOHJVc1VEMVE?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9VUFk2czJoUWFmUGRlOVpld056RFpQb3E3djRUSFJCX1NuU3dkNGFpZ19lYk9mM3RKYmpiM0xLQ19BekpTMXVvdGhEQ1lCekdMRThTcWJQWG5mQy1TeHRYOVpKOHJVc1VEMVE?oc=5\" target=\"_blank\">Fed's Powell says Bitcoin and crypto have matured and become more mainstream</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
       "source": "Google News"
     },
     {
+      "title": "Cango Takes Major Crypto Mining Leap: Acquires Massive 18 Exahash Operation Across Multiple Countries - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd21XQXlGQnNzOG4wSjluV3o1NVVuRzgxbGFYWjZGQXVmbElDSkZjSUYydTRVTmEzZDB0RnA2czJYUmZNYmpmMHAwcmJ3ZmZ6VjNOVUJIOW5PQmF5dUFncV9VNDV5S0M1T24taEJpUlM1d1lyN2RuN2JqektSMDAxZFZaTlRpdXZ0SVJJbllzMk9fejhRNko4RU5GSmVHWEhnaEhIQzA3Zmh5QXA2Z3VYczdZaHduMGRPeE5EaA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNd21XQXlGQnNzOG4wSjluV3o1NVVuRzgxbGFYWjZGQXVmbElDSkZjSUYydTRVTmEzZDB0RnA2czJYUmZNYmpmMHAwcmJ3ZmZ6VjNOVUJIOW5PQmF5dUFncV9VNDV5S0M1T24taEJpUlM1d1lyN2RuN2JqektSMDAxZFZaTlRpdXZ0SVJJbllzMk9fejhRNko4RU5GSmVHWEhnaEhIQzA3Zmh5QXA2Z3VYczdZaHduMGRPeE5EaA?oc=5\" target=\"_blank\">Cango Takes Major Crypto Mining Leap: Acquires Massive 18 Exahash Operation Across Multiple Countries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+      "source": "Google News"
+    },
+    {
       "title": "Crypto and the cost of living - The Guam Daily Post",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYWxtajY5Q1VuNnZ5bTdIdTJsTTBTMXdqcEk1UDJmc1BCcGI4b041dEdDTW0zU2oxZGozMFZscFliMTZWaG1aejg0RWpURnBpNHNVbGQyTmZ5aXhta0plaVJUZE1DdGRrdUJTRXlDX3p6VXRFY09VaDNRaEtFWmVCN3p3c01CQVFrUlZ4akdNX19vSVZFYmFxcEZjOC1wWXAzazQtMDNLUXJoa3RCTHBLUmRLZm9XekE4Y0FVSUpWcXFuQlljd2FWRkVaMA?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOYWxtajY5Q1VuNnZ5bTdIdTJsTTBTMXdqcEk1UDJmc1BCcGI4b041dEdDTW0zU2oxZGozMFZscFliMTZWaG1aejg0RWpURnBpNHNVbGQyTmZ5aXhta0plaVJUZE1DdGRrdUJTRXlDX3p6VXRFY09VaDNRaEtFWmVCN3p3c01CQVFrUlZ4akdNX19vSVZFYmFxcEZjOC1wWXAzazQtMDNLUXJoa3RCTHBLUmRLZm9XekE4Y0FVSUpWcXFuQlljd2FWRkVaMA?oc=5\" target=\"_blank\">Crypto and the cost of living</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guam Daily Post</font>",
+      "source": "Google News"
+    },
+    {
+      "title": "Fannie, Freddie Ordered to Find Ways to Count Crypto as an Asset - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbGFuUUZFQVA1N2ktQ0dfMFYxVzZSeFJhYmVrTDFSWVdYT0hXTGc4M09Sa1RxTFpjZVctTm1TOVFvUzJVbjVWNlU0REtzdzVZblluZG9US3VaaXY0YTJMeFpoQThKWDNsbk5RUEJ1NVVNeFNqZS1HX0NNek41TE1WRnVhNktvaElTVkt3aFN6UkZqb3lJTkRyeUJoMWdVVHFJR09yd2FHZzBXUWxTYzV2QWNnbVk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPbGFuUUZFQVA1N2ktQ0dfMFYxVzZSeFJhYmVrTDFSWVdYT0hXTGc4M09Sa1RxTFpjZVctTm1TOVFvUzJVbjVWNlU0REtzdzVZblluZG9US3VaaXY0YTJMeFpoQThKWDNsbk5RUEJ1NVVNeFNqZS1HX0NNek41TE1WRnVhNktvaElTVkt3aFN6UkZqb3lJTkRyeUJoMWdVVHFJR09yd2FHZzBXUWxTYzV2QWNnbVk?oc=5\" target=\"_blank\">Fannie, Freddie Ordered to Find Ways to Count Crypto as an Asset</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
       "source": "Google News"
     },
     {
@@ -548,15 +584,15 @@
       "source": "Google News"
     },
     {
-      "title": "Fannie, Freddie Ordered to Find Ways to Count Crypto as an Asset - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbGFuUUZFQVA1N2ktQ0dfMFYxVzZSeFJhYmVrTDFSWVdYT0hXTGc4M09Sa1RxTFpjZVctTm1TOVFvUzJVbjVWNlU0REtzdzVZblluZG9US3VaaXY0YTJMeFpoQThKWDNsbk5RUEJ1NVVNeFNqZS1HX0NNek41TE1WRnVhNktvaElTVkt3aFN6UkZqb3lJTkRyeUJoMWdVVHFJR09yd2FHZzBXUWxTYzV2QWNnbVk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPbGFuUUZFQVA1N2ktQ0dfMFYxVzZSeFJhYmVrTDFSWVdYT0hXTGc4M09Sa1RxTFpjZVctTm1TOVFvUzJVbjVWNlU0REtzdzVZblluZG9US3VaaXY0YTJMeFpoQThKWDNsbk5RUEJ1NVVNeFNqZS1HX0NNek41TE1WRnVhNktvaElTVkt3aFN6UkZqb3lJTkRyeUJoMWdVVHFJR09yd2FHZzBXUWxTYzV2QWNnbVk?oc=5\" target=\"_blank\">Fannie, Freddie Ordered to Find Ways to Count Crypto as an Asset</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
-      "source": "Google News"
-    },
-    {
       "title": "Ex-Blackstone, Tether Duo Plot $1 Billion Crypto-Reserve Push - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVzBXYTlRTXphWHhSWHdSaDlnV1FrYjJGdW5uVnBKSFBHZjlobFJfd0MyeUFVUlJLRGVjQTkwMFlUUC1Ncjd5eG1sSnA5NVVITF94aDlQTUFRWkR5ZzJmaExPVkl3T1NkV2wzZXl2RVAyRXkzWHA4TExwZl91dG9Obk9zUzZaYzZWMWJldXY3MWswbTlfTG1IVE1QOG9sYkdSZGwzY251RkF2WnBrazBJ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOVzBXYTlRTXphWHhSWHdSaDlnV1FrYjJGdW5uVnBKSFBHZjlobFJfd0MyeUFVUlJLRGVjQTkwMFlUUC1Ncjd5eG1sSnA5NVVITF94aDlQTUFRWkR5ZzJmaExPVkl3T1NkV2wzZXl2RVAyRXkzWHA4TExwZl91dG9Obk9zUzZaYzZWMWJldXY3MWswbTlfTG1IVE1QOG9sYkdSZGwzY251RkF2WnBrazBJ?oc=5\" target=\"_blank\">Ex-Blackstone, Tether Duo Plot $1 Billion Crypto-Reserve Push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+      "source": "Google News"
+    },
+    {
+      "title": "How to Use Grok for Real-Time Crypto Trading Signals - Cointelegraph",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hWXdraGE3VVhBbnVYUnpzb1JOU0Q3bkx6QnRhdnRuZ3pBLV9yRUI5ajFCMDZkblhsbzM2VmRnSmZjc0xrdnhfN3RkZXZNemo0enlOVDI1Qm91S0hkWDUtOHFkUDBXUk9JdGVNNHV0bGRZLVU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1hWXdraGE3VVhBbnVYUnpzb1JOU0Q3bkx6QnRhdnRuZ3pBLV9yRUI5ajFCMDZkblhsbzM2VmRnSmZjc0xrdnhfN3RkZXZNemo0enlOVDI1Qm91S0hkWDUtOHFkUDBXUk9JdGVNNHV0bGRZLVU?oc=5\" target=\"_blank\">How to Use Grok for Real-Time Crypto Trading Signals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cointelegraph</font>",
       "source": "Google News"
     },
     {
@@ -567,8 +603,8 @@
     },
     {
       "title": "The Big Loser From the \u2018Genius Act\u2019 Is $156 Billion Crypto Giant Tether - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNc2d0OTlJYk9BRHdfaVU5UGhGVXhhbnRGTXgwUFBWNC1XemEzT0p1X3lHVzRXQjJyNWZBeWVWZ2FmYXk0OFlsekVOUjdyeFFMU2hBWlVJVzdtTURYdXJ1QVR4eGJuWjhmc1RGZ3dvbWlhQnFOOW9FeG5VSTdMWTJjS3d5UEhUaHNNdld2V2xfRE5CZ2pVNkk1OE8xWHZYWWR1ZENpcmV0XzNEMXBCMW9Memp6ZVZUNjdHODZobk9qYk9RektUZjQtZmFOMERuV1NGMzhLcXdaN1BEWXo3d1hQRlZiRkYxR05LRlZPcDhIZGloaUpPYmxRYU1aMDV5Ty1JWm1NaEFGQ29XdzR6SXd5MlkzWXNpcEpNN1hHUWowOUI5SU50alh5cGt4d0VEaGJac0tfbnJnM0htajBGUlBQbHlXTGd2Ulc1bUxiSTlaSlFyR0V1RWl2dlE2M1ZZdTdqQlctaEJ2VXRhTTN4b3I4ZkotV0dMQ0JWWDdKSUNyYlptdHJGekVr?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwNBVV95cUxNc2d0OTlJYk9BRHdfaVU5UGhGVXhhbnRGTXgwUFBWNC1XemEzT0p1X3lHVzRXQjJyNWZBeWVWZ2FmYXk0OFlsekVOUjdyeFFMU2hBWlVJVzdtTURYdXJ1QVR4eGJuWjhmc1RGZ3dvbWlhQnFOOW9FeG5VSTdMWTJjS3d5UEhUaHNNdld2V2xfRE5CZ2pVNkk1OE8xWHZYWWR1ZENpcmV0XzNEMXBCMW9Memp6ZVZUNjdHODZobk9qYk9RektUZjQtZmFOMERuV1NGMzhLcXdaN1BEWXo3d1hQRlZiRkYxR05LRlZPcDhIZGloaUpPYmxRYU1aMDV5Ty1JWm1NaEFGQ29XdzR6SXd5MlkzWXNpcEpNN1hHUWowOUI5SU50alh5cGt4d0VEaGJac0tfbnJnM0htajBGUlBQbHlXTGd2Ulc1bUxiSTlaSlFyR0V1RWl2dlE2M1ZZdTdqQlctaEJ2VXRhTTN4b3I4ZkotV0dMQ0JWWDdKSUNyYlptdHJGekVr?oc=5\" target=\"_blank\">The Big Loser From the \u2018Genius Act\u2019 Is $156 Billion Crypto Giant Tether</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPTVUyWlprNGotdkF0OC0yMEZ6UTJ0bGI3dWVCcDI4Zjl2SDFIb1NEYzZWQWUzRFFIWTBJVXNkRlZRRXBpNWJVblZ1SDlKNzJydTQ1ZEd1UTFKWHpHQXpFM0FSQkFaLTRfNlBmYm1aT1hncnZSUHlhdFhmcnlxZFhCSEdsbTQzeXA2NWI1Q21SQ216LWRVcXRoSTBSMWdwMXJDelBxeFR6LWlieVV4eThNYUltdG1YMG0zUUdxN2E0V1c1dTFZaXRZQ3lsUXV6V1l3c3pacjRTbU1DS3JpLUpHbUZ0ZFpoYjlwRGtudGNvZmJJbUY2RXVyc2dUeHdkQWpJS0xOMmJTM0dSdW13LXppaXZVTW9vNHd0Ymd4b3hjcFJ2WDRYSG5HdTliQ1FUR0ZhVjB1dU9XVHdrNjllTHg5M3hsdVM4dEJ4MDVBMnZpRllNbmxoaGR3WWEtQzNJYVBMeHVTelNfNGVkYl9MbXZPVjlzVzF2WkU3bTNUUVJEYnRaX2EzSDJV?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwNBVV95cUxPTVUyWlprNGotdkF0OC0yMEZ6UTJ0bGI3dWVCcDI4Zjl2SDFIb1NEYzZWQWUzRFFIWTBJVXNkRlZRRXBpNWJVblZ1SDlKNzJydTQ1ZEd1UTFKWHpHQXpFM0FSQkFaLTRfNlBmYm1aT1hncnZSUHlhdFhmcnlxZFhCSEdsbTQzeXA2NWI1Q21SQ216LWRVcXRoSTBSMWdwMXJDelBxeFR6LWlieVV4eThNYUltdG1YMG0zUUdxN2E0V1c1dTFZaXRZQ3lsUXV6V1l3c3pacjRTbU1DS3JpLUpHbUZ0ZFpoYjlwRGtudGNvZmJJbUY2RXVyc2dUeHdkQWpJS0xOMmJTM0dSdW13LXppaXZVTW9vNHd0Ymd4b3hjcFJ2WDRYSG5HdTliQ1FUR0ZhVjB1dU9XVHdrNjllTHg5M3hsdVM4dEJ4MDVBMnZpRllNbmxoaGR3WWEtQzNJYVBMeHVTelNfNGVkYl9MbXZPVjlzVzF2WkU3bTNUUVJEYnRaX2EzSDJV?oc=5\" target=\"_blank\">The Big Loser From the \u2018Genius Act\u2019 Is $156 Billion Crypto Giant Tether</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
       "source": "Google News"
     },
     {
@@ -578,27 +614,9 @@
       "source": "Google News"
     },
     {
-      "title": "Crypto Hacks Hit New Heights: H1 2025 Losses Nearly Matches All of 2024 Exploits - CCN.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeVFIM0VuaE1vSE4weUdkZE5UOTJBX1ZsbDRCdHBFSkRlQ0JVNnhXUFNzZV9CbVpBaFFRX1E1RjNqZC0tTlNCbzE4Vm5YalFFTDFOWGpKWHlwVExrVnk3T3ZXdDJYT29fOVlnQ1AxVGNxdE44NWVxdk5xSGd2THVzaEh6SmNtNU9TcS14ZzM0Rl9uWEdmLU9YQjdn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQeVFIM0VuaE1vSE4weUdkZE5UOTJBX1ZsbDRCdHBFSkRlQ0JVNnhXUFNzZV9CbVpBaFFRX1E1RjNqZC0tTlNCbzE4Vm5YalFFTDFOWGpKWHlwVExrVnk3T3ZXdDJYT29fOVlnQ1AxVGNxdE44NWVxdk5xSGd2THVzaEh6SmNtNU9TcS14ZzM0Rl9uWEdmLU9YQjdn?oc=5\" target=\"_blank\">Crypto Hacks Hit New Heights: H1 2025 Losses Nearly Matches All of 2024 Exploits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CCN.com</font>",
-      "source": "Google News"
-    },
-    {
       "title": "Hong Kong\u2019s New Crypto Policy Sparks Digital Asset Stock Boom - CCN.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYmZxTHY2TTJ6MkM4VFc0cjZIZEZOMXFnSWEyRkFPai1IVFI3Z0dCRnFzcjNTeHZhVjVVaFNycTM4MXdMZWVEMUtnMW84aDJteGJ4YkF2d19qQ21GcHpUa0Z6cWJoSVBPOFdMRXRBYk1vQW4tNWp4TXMwS01IM3BROTFFbVEzVEZkNllvd3lTQXJFb2JZZkZTQg?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNYmZxTHY2TTJ6MkM4VFc0cjZIZEZOMXFnSWEyRkFPai1IVFI3Z0dCRnFzcjNTeHZhVjVVaFNycTM4MXdMZWVEMUtnMW84aDJteGJ4YkF2d19qQ21GcHpUa0Z6cWJoSVBPOFdMRXRBYk1vQW4tNWp4TXMwS01IM3BROTFFbVEzVEZkNllvd3lTQXJFb2JZZkZTQg?oc=5\" target=\"_blank\">Hong Kong\u2019s New Crypto Policy Sparks Digital Asset Stock Boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CCN.com</font>",
-      "source": "Google News"
-    },
-    {
-      "title": "Ethereum set for rally as it holds above crucial $2.4K price: Analyst - Cointelegraph",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcUdOMzZ0LUY3QzVNaVJqUmU4MVpic1V4RGc0NUhjekRfZ2tIYWVxWHpyVWVqVWo3WGlNWGg3QnBObElnWkhHSmxIV2JwMHp2aVliRVpqQlB6Z2dNV3M0aGI2bFFVeTRUOXd0eEtxcFVWVVQ1UmcycEJ1SDllNUR3ZW1XNzhnRWUtUHBCQ0p6WDhsYzNtRmFKSkpqdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNcUdOMzZ0LUY3QzVNaVJqUmU4MVpic1V4RGc0NUhjekRfZ2tIYWVxWHpyVWVqVWo3WGlNWGg3QnBObElnWkhHSmxIV2JwMHp2aVliRVpqQlB6Z2dNV3M0aGI2bFFVeTRUOXd0eEtxcFVWVVQ1UmcycEJ1SDllNUR3ZW1XNzhnRWUtUHBCQ0p6WDhsYzNtRmFKSkpqdw?oc=5\" target=\"_blank\">Ethereum set for rally as it holds above crucial $2.4K price: Analyst</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cointelegraph</font>",
-      "source": "Google News"
-    },
-    {
-      "title": "Crypto\u2019s Worst Six Months Yet? North Korea Hacks Lead to $2.1B in Thefts - CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObHp4N0puQmdhaTFRLXhyazI2RFpZVTlRS3BmX2hjeXduaS1UQWxtUVJNWnd1RVRVWXc1VWpzcG9Ldkp4WGlHZ3NKMF9kTlllN3p0VWtZZEEtbmxEUDI5VjBxSURVQTQ1RXZ1TjJlSkI5SjFDakNZS3ZIbUZ4T1NhWXF3THdfd1Z0T2k1NEVrNVZOUUstV0Q4NHVfSm13UFFHaFY4RmY1SjhyM1RmNi03cjhR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxObHp4N0puQmdhaTFRLXhyazI2RFpZVTlRS3BmX2hjeXduaS1UQWxtUVJNWnd1RVRVWXc1VWpzcG9Ldkp4WGlHZ3NKMF9kTlllN3p0VWtZZEEtbmxEUDI5VjBxSURVQTQ1RXZ1TjJlSkI5SjFDakNZS3ZIbUZ4T1NhWXF3THdfd1Z0T2k1NEVrNVZOUUstV0Q4NHVfSm13UFFHaFY4RmY1SjhyM1RmNi03cjhR?oc=5\" target=\"_blank\">Crypto\u2019s Worst Six Months Yet? North Korea Hacks Lead to $2.1B in Thefts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinDesk</font>",
       "source": "Google News"
     },
     {
@@ -608,15 +626,27 @@
       "source": "Google News"
     },
     {
+      "title": "Crypto Hacks Hit New Heights: H1 2025 Losses Nearly Matches All of 2024 Exploits - CCN.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeVFIM0VuaE1vSE4weUdkZE5UOTJBX1ZsbDRCdHBFSkRlQ0JVNnhXUFNzZV9CbVpBaFFRX1E1RjNqZC0tTlNCbzE4Vm5YalFFTDFOWGpKWHlwVExrVnk3T3ZXdDJYT29fOVlnQ1AxVGNxdE44NWVxdk5xSGd2THVzaEh6SmNtNU9TcS14ZzM0Rl9uWEdmLU9YQjdn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQeVFIM0VuaE1vSE4weUdkZE5UOTJBX1ZsbDRCdHBFSkRlQ0JVNnhXUFNzZV9CbVpBaFFRX1E1RjNqZC0tTlNCbzE4Vm5YalFFTDFOWGpKWHlwVExrVnk3T3ZXdDJYT29fOVlnQ1AxVGNxdE44NWVxdk5xSGd2THVzaEh6SmNtNU9TcS14ZzM0Rl9uWEdmLU9YQjdn?oc=5\" target=\"_blank\">Crypto Hacks Hit New Heights: H1 2025 Losses Nearly Matches All of 2024 Exploits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CCN.com</font>",
+      "source": "Google News"
+    },
+    {
       "title": "Here are the overlooked ways to play AI, crypto and quantum trends, says this tech investor - MarketWatch",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUWpaODhNVDB1Zy1sT3BNejdmajU2MjRjbkpFMlNJMDVHTHRDcEhReTBPbm9Md0dlazROX29sdElIOVpxbnBSRnpGQ0tqVFgzYnFlQ05vNXVLcWVRT2lLS2RYMWswaXRSNjVJR0NwUnJrR0FMMHRBTllHVGF4VDZtc3NpdElhQjh2ZFlPakZtYnRubU5POTQ0OFRaaGMxVVY5VGRtNDY1NUwzX2lSX3J3WGYzTG1qUUhtVllKQ0dkMUdVZlpaUy1FTG52bk0?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNUWpaODhNVDB1Zy1sT3BNejdmajU2MjRjbkpFMlNJMDVHTHRDcEhReTBPbm9Md0dlazROX29sdElIOVpxbnBSRnpGQ0tqVFgzYnFlQ05vNXVLcWVRT2lLS2RYMWswaXRSNjVJR0NwUnJrR0FMMHRBTllHVGF4VDZtc3NpdElhQjh2ZFlPakZtYnRubU5POTQ0OFRaaGMxVVY5VGRtNDY1NUwzX2lSX3J3WGYzTG1qUUhtVllKQ0dkMUdVZlpaUy1FTG52bk0?oc=5\" target=\"_blank\">Here are the overlooked ways to play AI, crypto and quantum trends, says this tech investor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
       "source": "Google News"
     },
     {
-      "title": "Why VCs are doubling funding to $25bn as new era dawns for crypto - dlnews.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOekM1cHlUMmZlTkY4MXVfTDVYVEdxN21JY3U3aWtleEtyOHNsRF9kYzk5dUhraUhuZVV3LV9kbWFBV05jcjZBNTEybjVnMWFOTm5LZFRuNHdQemJiNmE2dklXNjFSMUM1dVpXTkNaUTZ3OGg4LTNfbGVSNzN4bkJKY3NXNk1MYXNEbGp6cFZYTTk4N05FTzRmWFNXTQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOekM1cHlUMmZlTkY4MXVfTDVYVEdxN21JY3U3aWtleEtyOHNsRF9kYzk5dUhraUhuZVV3LV9kbWFBV05jcjZBNTEybjVnMWFOTm5LZFRuNHdQemJiNmE2dklXNjFSMUM1dVpXTkNaUTZ3OGg4LTNfbGVSNzN4bkJKY3NXNk1MYXNEbGp6cFZYTTk4N05FTzRmWFNXTQ?oc=5\" target=\"_blank\">Why VCs are doubling funding to $25bn as new era dawns for crypto</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dlnews.com</font>",
+      "title": "Crypto\u2019s Worst Six Months Yet? North Korea Hacks Lead to $2.1B in Thefts - CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObHp4N0puQmdhaTFRLXhyazI2RFpZVTlRS3BmX2hjeXduaS1UQWxtUVJNWnd1RVRVWXc1VWpzcG9Ldkp4WGlHZ3NKMF9kTlllN3p0VWtZZEEtbmxEUDI5VjBxSURVQTQ1RXZ1TjJlSkI5SjFDakNZS3ZIbUZ4T1NhWXF3THdfd1Z0T2k1NEVrNVZOUUstV0Q4NHVfSm13UFFHaFY4RmY1SjhyM1RmNi03cjhR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxObHp4N0puQmdhaTFRLXhyazI2RFpZVTlRS3BmX2hjeXduaS1UQWxtUVJNWnd1RVRVWXc1VWpzcG9Ldkp4WGlHZ3NKMF9kTlllN3p0VWtZZEEtbmxEUDI5VjBxSURVQTQ1RXZ1TjJlSkI5SjFDakNZS3ZIbUZ4T1NhWXF3THdfd1Z0T2k1NEVrNVZOUUstV0Q4NHVfSm13UFFHaFY4RmY1SjhyM1RmNi03cjhR?oc=5\" target=\"_blank\">Crypto\u2019s Worst Six Months Yet? North Korea Hacks Lead to $2.1B in Thefts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinDesk</font>",
+      "source": "Google News"
+    },
+    {
+      "title": "Ethereum set for rally as it holds above crucial $2.4K price: Analyst - Cointelegraph",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcUdOMzZ0LUY3QzVNaVJqUmU4MVpic1V4RGc0NUhjekRfZ2tIYWVxWHpyVWVqVWo3WGlNWGg3QnBObElnWkhHSmxIV2JwMHp2aVliRVpqQlB6Z2dNV3M0aGI2bFFVeTRUOXd0eEtxcFVWVVQ1UmcycEJ1SDllNUR3ZW1XNzhnRWUtUHBCQ0p6WDhsYzNtRmFKSkpqdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNcUdOMzZ0LUY3QzVNaVJqUmU4MVpic1V4RGc0NUhjekRfZ2tIYWVxWHpyVWVqVWo3WGlNWGg3QnBObElnWkhHSmxIV2JwMHp2aVliRVpqQlB6Z2dNV3M0aGI2bFFVeTRUOXd0eEtxcFVWVVQ1UmcycEJ1SDllNUR3ZW1XNzhnRWUtUHBCQ0p6WDhsYzNtRmFKSkpqdw?oc=5\" target=\"_blank\">Ethereum set for rally as it holds above crucial $2.4K price: Analyst</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cointelegraph</font>",
       "source": "Google News"
     },
     {
@@ -626,27 +656,27 @@
       "source": "Google News"
     },
     {
-      "title": "Kraken Launches Krak: A New Peer-To-Peer Crypto Payments App\u2014Details | Bitcoinist.com - Bitcoinist.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KRjdXNjRXX0h1YUhxTDRybjJLVjNtQldLRDJzSDdBeEZrWG9renlVNEwydUJERHBIdkhKSEY2RE1BZUdVTlMwbjhPSG5XWUNxTWhuWDZTMlBRZXhPbndDRUp5OFFtSkYya2tueVo3NGlRTEZaMWfSAXtBVV95cUxQQUdaOFJoc3NDdkd6eWJidXZOdGFneEFtSDhaeTNSYWkyTG9kblhLN1lOXzhMZFplSjE0YmF3TzlRR1BlVkp1X0JuM3o1bmhJNlRDRU1LN0RCM25kZ1hUYkdncFRDa3VjbnJDZWtIX3Y4WHhyZFBkMzRiUkk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5KRjdXNjRXX0h1YUhxTDRybjJLVjNtQldLRDJzSDdBeEZrWG9renlVNEwydUJERHBIdkhKSEY2RE1BZUdVTlMwbjhPSG5XWUNxTWhuWDZTMlBRZXhPbndDRUp5OFFtSkYya2tueVo3NGlRTEZaMWfSAXtBVV95cUxQQUdaOFJoc3NDdkd6eWJidXZOdGFneEFtSDhaeTNSYWkyTG9kblhLN1lOXzhMZFplSjE0YmF3TzlRR1BlVkp1X0JuM3o1bmhJNlRDRU1LN0RCM25kZ1hUYkdncFRDa3VjbnJDZWtIX3Y4WHhyZFBkMzRiUkk?oc=5\" target=\"_blank\">Kraken Launches Krak: A New Peer-To-Peer Crypto Payments App\u2014Details | Bitcoinist.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitcoinist.com</font>",
-      "source": "Google News"
-    },
-    {
       "title": "DWF Ventures Report Reveals $76B Crypto Treasury Investment by Public Companies - The Daily Hodl",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMm5oSUpTeHJDUjJvY0dsZG93VDhjNF9rUS1ibGtFVGhUVGtyWW9YRUNwbTFKNF9pZEIwaHZUWXZTZVJhcjE1X0o2c3JuSEhSSF8ybDRGUXBJZnFOTFlZakllZFQ0c1lUM2pnMFlCb3MxYWlOc2RYbzRYY3FUQnJnVlhLM05ueG5FZ003TEpzUVRqaVJCSGl0X3M2Y3ZnOXRLRldGcnJDLUU3TTRnWm8teDVB?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQMm5oSUpTeHJDUjJvY0dsZG93VDhjNF9rUS1ibGtFVGhUVGtyWW9YRUNwbTFKNF9pZEIwaHZUWXZTZVJhcjE1X0o2c3JuSEhSSF8ybDRGUXBJZnFOTFlZakllZFQ0c1lUM2pnMFlCb3MxYWlOc2RYbzRYY3FUQnJnVlhLM05ueG5FZ003TEpzUVRqaVJCSGl0X3M2Y3ZnOXRLRldGcnJDLUU3TTRnWm8teDVB?oc=5\" target=\"_blank\">DWF Ventures Report Reveals $76B Crypto Treasury Investment by Public Companies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Hodl</font>",
       "source": "Google News"
     },
     {
-      "title": "XRP, Solana Lead Profit-Taking Among Crypto Majors Even as Bullish Mood Persists - CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdXpoQ01EbW1sWExaVWdMMjZpQ0tQQzZfRFJUN2VSNjE0Wm8wVVNxU2pBVlBLNFFzc0JFTnptU043Sm1rc0FEel9Hel9hYk5aN0FZRUlPamx4Uzhva0tQb3VZZkE4dVV5NlFDNHF0N1RmNnBBbnd3emZZc0pjQk5PV3NDNU1oUEtXb1hRektsS21GQzQ3cGlDZVVVX1R3YW5JQVBTTDFFdDBWTHZ1bHF2T2Z0Z2FNQm1VWldRTFZibUk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdXpoQ01EbW1sWExaVWdMMjZpQ0tQQzZfRFJUN2VSNjE0Wm8wVVNxU2pBVlBLNFFzc0JFTnptU043Sm1rc0FEel9Hel9hYk5aN0FZRUlPamx4Uzhva0tQb3VZZkE4dVV5NlFDNHF0N1RmNnBBbnd3emZZc0pjQk5PV3NDNU1oUEtXb1hRektsS21GQzQ3cGlDZVVVX1R3YW5JQVBTTDFFdDBWTHZ1bHF2T2Z0Z2FNQm1VWldRTFZibUk?oc=5\" target=\"_blank\">XRP, Solana Lead Profit-Taking Among Crypto Majors Even as Bullish Mood Persists</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinDesk</font>",
-      "source": "Google News"
-    },
-    {
       "title": "Best Crypto Play Ahead of US Core PCE Data? - 99Bitcoins",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcTZzSWJodEhwQUlOSnM4S0pJX19jYVpvd3Y1ZmJaSEpuTmRVZ3dFMDViVFBJcDhXSHJlSU0wbFd5ZGhaSE1wU1dxbWtZbU41S2FwclNFREFaU3dSTzhwcDVORnhoT1ZLRldyUG5WWG1yVUx4Y0hBNzBqYUsxWk5DMmxVaDhGNGM?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQcTZzSWJodEhwQUlOSnM4S0pJX19jYVpvd3Y1ZmJaSEpuTmRVZ3dFMDViVFBJcDhXSHJlSU0wbFd5ZGhaSE1wU1dxbWtZbU41S2FwclNFREFaU3dSTzhwcDVORnhoT1ZLRldyUG5WWG1yVUx4Y0hBNzBqYUsxWk5DMmxVaDhGNGM?oc=5\" target=\"_blank\">Best Crypto Play Ahead of US Core PCE Data?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">99Bitcoins</font>",
+      "source": "Google News"
+    },
+    {
+      "title": "Kraken Launches Krak: A New Peer-To-Peer Crypto Payments App\u2014Details | Bitcoinist.com - Bitcoinist.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KRjdXNjRXX0h1YUhxTDRybjJLVjNtQldLRDJzSDdBeEZrWG9renlVNEwydUJERHBIdkhKSEY2RE1BZUdVTlMwbjhPSG5XWUNxTWhuWDZTMlBRZXhPbndDRUp5OFFtSkYya2tueVo3NGlRTEZaMWfSAXtBVV95cUxQQUdaOFJoc3NDdkd6eWJidXZOdGFneEFtSDhaeTNSYWkyTG9kblhLN1lOXzhMZFplSjE0YmF3TzlRR1BlVkp1X0JuM3o1bmhJNlRDRU1LN0RCM25kZ1hUYkdncFRDa3VjbnJDZWtIX3Y4WHhyZFBkMzRiUkk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5KRjdXNjRXX0h1YUhxTDRybjJLVjNtQldLRDJzSDdBeEZrWG9renlVNEwydUJERHBIdkhKSEY2RE1BZUdVTlMwbjhPSG5XWUNxTWhuWDZTMlBRZXhPbndDRUp5OFFtSkYya2tueVo3NGlRTEZaMWfSAXtBVV95cUxQQUdaOFJoc3NDdkd6eWJidXZOdGFneEFtSDhaeTNSYWkyTG9kblhLN1lOXzhMZFplSjE0YmF3TzlRR1BlVkp1X0JuM3o1bmhJNlRDRU1LN0RCM25kZ1hUYkdncFRDa3VjbnJDZWtIX3Y4WHhyZFBkMzRiUkk?oc=5\" target=\"_blank\">Kraken Launches Krak: A New Peer-To-Peer Crypto Payments App\u2014Details | Bitcoinist.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitcoinist.com</font>",
+      "source": "Google News"
+    },
+    {
+      "title": "XRP, Solana Lead Profit-Taking Among Crypto Majors Even as Bullish Mood Persists - CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdXpoQ01EbW1sWExaVWdMMjZpQ0tQQzZfRFJUN2VSNjE0Wm8wVVNxU2pBVlBLNFFzc0JFTnptU043Sm1rc0FEel9Hel9hYk5aN0FZRUlPamx4Uzhva0tQb3VZZkE4dVV5NlFDNHF0N1RmNnBBbnd3emZZc0pjQk5PV3NDNU1oUEtXb1hRektsS21GQzQ3cGlDZVVVX1R3YW5JQVBTTDFFdDBWTHZ1bHF2T2Z0Z2FNQm1VWldRTFZibUk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdXpoQ01EbW1sWExaVWdMMjZpQ0tQQzZfRFJUN2VSNjE0Wm8wVVNxU2pBVlBLNFFzc0JFTnptU043Sm1rc0FEel9Hel9hYk5aN0FZRUlPamx4Uzhva0tQb3VZZkE4dVV5NlFDNHF0N1RmNnBBbnd3emZZc0pjQk5PV3NDNU1oUEtXb1hRektsS21GQzQ3cGlDZVVVX1R3YW5JQVBTTDFFdDBWTHZ1bHF2T2Z0Z2FNQm1VWldRTFZibUk?oc=5\" target=\"_blank\">XRP, Solana Lead Profit-Taking Among Crypto Majors Even as Bullish Mood Persists</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinDesk</font>",
       "source": "Google News"
     },
     {
@@ -662,15 +692,21 @@
       "source": "Google News"
     },
     {
-      "title": "The Trump administration just took a big step toward considering crypto assets during home loan applications - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWHhXQnk4OGZEYmpMekZEOGx4b0lFMWFVQ1U3TTRlQlhWZ3BPYVhhVldBYnhyb0dwZk5CYVZiQ3lPRzhsQXpkLUtXZ3c3TUhHUHBOTkllaVlmV1ctaW5sNFE2VjhCNHZXb2M5T0xtb3l5TFEtbnhIMC1zNzhyLXJIMmotakM0d0hPb2l1a1IyZjdhVDd6MURNYXAzenJsaEEyb3B3eHo5MFBpMmp5ZDZKdXN4Q3ZMbnJuMi1lTm9tZnlhemJJQWdv?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPWHhXQnk4OGZEYmpMekZEOGx4b0lFMWFVQ1U3TTRlQlhWZ3BPYVhhVldBYnhyb0dwZk5CYVZiQ3lPRzhsQXpkLUtXZ3c3TUhHUHBOTkllaVlmV1ctaW5sNFE2VjhCNHZXb2M5T0xtb3l5TFEtbnhIMC1zNzhyLXJIMmotakM0d0hPb2l1a1IyZjdhVDd6MURNYXAzenJsaEEyb3B3eHo5MFBpMmp5ZDZKdXN4Q3ZMbnJuMi1lTm9tZnlhemJJQWdv?oc=5\" target=\"_blank\">The Trump administration just took a big step toward considering crypto assets during home loan applications</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
-      "source": "Google News"
-    },
-    {
       "title": "Exclusive: Crypto giant Galaxy raises $175 million for first venture fund - Fortune",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdV9zc2tkalAxOGJvcDFscHJDVjVVaWtCVVV4RV9ZdDh1akZsSjB3VF9jMmpXMklNbkI2R2xFekg4TE9xLTNIM3JHM3dYNlFPbjRzdGJEUmhaS1FmWm5UNFBzT1ZqOERpNVA2NHpQOVNxallhZnJUNHE3Rmd1N1JQcnA5dUlndVB6MzlQUXBSOTZrTVBLZDJpbzI5NVhFekM5Y1NTTFN3?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQdV9zc2tkalAxOGJvcDFscHJDVjVVaWtCVVV4RV9ZdDh1akZsSjB3VF9jMmpXMklNbkI2R2xFekg4TE9xLTNIM3JHM3dYNlFPbjRzdGJEUmhaS1FmWm5UNFBzT1ZqOERpNVA2NHpQOVNxallhZnJUNHE3Rmd1N1JQcnA5dUlndVB6MzlQUXBSOTZrTVBLZDJpbzI5NVhFekM5Y1NTTFN3?oc=5\" target=\"_blank\">Exclusive: Crypto giant Galaxy raises $175 million for first venture fund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+      "source": "Google News"
+    },
+    {
+      "title": "SEC Crypto News Update: Are NYSE And SEC About To Rewrite Crypto Law? - Blockchain Magazine",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa09LT2w0T2tMN2tyYTluNXhOaUZydEhMN2ZnNVRpcTNWa09HeDZlYmN0dEpKcmxCMTM2eWM0U19URlpHaGl1QkJnUW1oQ0VfbUtUMnZCczRBc2ptUE5hbTFOZG81a3FWMFd5eFJ0MlhEVXZzV1h0UjF4cVRrSWpYTg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNa09LT2w0T2tMN2tyYTluNXhOaUZydEhMN2ZnNVRpcTNWa09HeDZlYmN0dEpKcmxCMTM2eWM0U19URlpHaGl1QkJnUW1oQ0VfbUtUMnZCczRBc2ptUE5hbTFOZG81a3FWMFd5eFJ0MlhEVXZzV1h0UjF4cVRrSWpYTg?oc=5\" target=\"_blank\">SEC Crypto News Update: Are NYSE And SEC About To Rewrite Crypto Law?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Blockchain Magazine</font>",
+      "source": "Google News"
+    },
+    {
+      "title": "The Trump administration just took a big step toward considering crypto assets during home loan applications - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWHhXQnk4OGZEYmpMekZEOGx4b0lFMWFVQ1U3TTRlQlhWZ3BPYVhhVldBYnhyb0dwZk5CYVZiQ3lPRzhsQXpkLUtXZ3c3TUhHUHBOTkllaVlmV1ctaW5sNFE2VjhCNHZXb2M5T0xtb3l5TFEtbnhIMC1zNzhyLXJIMmotakM0d0hPb2l1a1IyZjdhVDd6MURNYXAzenJsaEEyb3B3eHo5MFBpMmp5ZDZKdXN4Q3ZMbnJuMi1lTm9tZnlhemJJQWdv?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPWHhXQnk4OGZEYmpMekZEOGx4b0lFMWFVQ1U3TTRlQlhWZ3BPYVhhVldBYnhyb0dwZk5CYVZiQ3lPRzhsQXpkLUtXZ3c3TUhHUHBOTkllaVlmV1ctaW5sNFE2VjhCNHZXb2M5T0xtb3l5TFEtbnhIMC1zNzhyLXJIMmotakM0d0hPb2l1a1IyZjdhVDd6MURNYXAzenJsaEEyb3B3eHo5MFBpMmp5ZDZKdXN4Q3ZMbnJuMi1lTm9tZnlhemJJQWdv?oc=5\" target=\"_blank\">The Trump administration just took a big step toward considering crypto assets during home loan applications</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
       "source": "Google News"
     },
     {
@@ -692,9 +728,9 @@
       "source": "Google News"
     },
     {
-      "title": "Owning crypto might soon help you get a mortgage - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdHRaNnBaRkpmZjM4RmR5S0ZPUTBmaS1xQVgydVRlMTJfYUhaa29wUG9ucU1ReUdkUzAyaFVnLUVzbzNCVzdLM21JTGdsZnJKcHpfcnRMYWwyeTJ2c2FtbjFaUHBzSjQwSkpsSjc2ZExIal9FMzZDTWxfNHR4czl6QzBxbzJhSFZpUnVsZHJCR2VLWHRSUDhRMmlnVHhjMkc1QlE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQdHRaNnBaRkpmZjM4RmR5S0ZPUTBmaS1xQVgydVRlMTJfYUhaa29wUG9ucU1ReUdkUzAyaFVnLUVzbzNCVzdLM21JTGdsZnJKcHpfcnRMYWwyeTJ2c2FtbjFaUHBzSjQwSkpsSjc2ZExIal9FMzZDTWxfNHR4czl6QzBxbzJhSFZpUnVsZHJCR2VLWHRSUDhRMmlnVHhjMkc1QlE?oc=5\" target=\"_blank\">Owning crypto might soon help you get a mortgage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "title": "Why are thousands of crypto investors getting IRS warning letters \u2014 and should you worry? - The Block",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT1hMaWFqVHViZURWN0tLZUYwVWRJN2xieFZGU2tfNmw3dWtDdG1iX0JyMWpLb0lfdGRRT3kxT2dmX3o4Q1NuVlRSSzJXQnhWQnh6TGN5YWxfLUlQUWFtTlpCdTRZQTl0QlUtcTM2VWE4aXJWb2dlQVhmWk43U2tLUWVjQlJ2ZXRkNmJoSGxHMGFYLUFXTXfSAWpBVV95cUxNYmM0WG9RMTdMcGtMWjF0NXJuZmFjYzN0VVdFQVExLU0tY2t3UFhEVjE1RHRXVUdiZkoxSEIzcktGYUItbEhkcGM1RTVFU3VSSWlXdWI0T2IydFBpck8yajZPOEx5WlppbDVB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQT1hMaWFqVHViZURWN0tLZUYwVWRJN2xieFZGU2tfNmw3dWtDdG1iX0JyMWpLb0lfdGRRT3kxT2dmX3o4Q1NuVlRSSzJXQnhWQnh6TGN5YWxfLUlQUWFtTlpCdTRZQTl0QlUtcTM2VWE4aXJWb2dlQVhmWk43U2tLUWVjQlJ2ZXRkNmJoSGxHMGFYLUFXTXfSAWpBVV95cUxNYmM0WG9RMTdMcGtMWjF0NXJuZmFjYzN0VVdFQVExLU0tY2t3UFhEVjE1RHRXVUdiZkoxSEIzcktGYUItbEhkcGM1RTVFU3VSSWlXdWI0T2IydFBpck8yajZPOEx5WlppbDVB?oc=5\" target=\"_blank\">Why are thousands of crypto investors getting IRS warning letters \u2014 and should you worry?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Block</font>",
       "source": "Google News"
     },
     {
@@ -707,6 +743,12 @@
       "title": "Can XCN Crypto Hit $0.035 in July 2025: XCN Price Prediction and Key Levels - 99Bitcoins",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN21WX1o2MF9ocVcxS1NONzRXQ2QzXzd2M3lHOXVNd0VUWmxHbFlRZlprVHRCNHZLMGd6WGZjRmtDTHgxSEd5N2tGQmdtdGp6Zl9yTHFzV2duT1NGUEpZbzNtbHp2UUpQak5VNHJRWE5pb2o5dmpya2pTaXpyM2J6MnVCUk9HN0pXWlI5ZXUtMlFZc1M4bEtDQkV0QXpMT0R2YTFCQU93ZVVZZngtYU4zcQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPN21WX1o2MF9ocVcxS1NONzRXQ2QzXzd2M3lHOXVNd0VUWmxHbFlRZlprVHRCNHZLMGd6WGZjRmtDTHgxSEd5N2tGQmdtdGp6Zl9yTHFzV2duT1NGUEpZbzNtbHp2UUpQak5VNHJRWE5pb2o5dmpya2pTaXpyM2J6MnVCUk9HN0pXWlI5ZXUtMlFZc1M4bEtDQkV0QXpMT0R2YTFCQU93ZVVZZngtYU4zcQ?oc=5\" target=\"_blank\">Can XCN Crypto Hit $0.035 in July 2025: XCN Price Prediction and Key Levels</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">99Bitcoins</font>",
+      "source": "Google News"
+    },
+    {
+      "title": "Owning crypto might soon help you get a mortgage - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdHRaNnBaRkpmZjM4RmR5S0ZPUTBmaS1xQVgydVRlMTJfYUhaa29wUG9ucU1ReUdkUzAyaFVnLUVzbzNCVzdLM21JTGdsZnJKcHpfcnRMYWwyeTJ2c2FtbjFaUHBzSjQwSkpsSjc2ZExIal9FMzZDTWxfNHR4czl6QzBxbzJhSFZpUnVsZHJCR2VLWHRSUDhRMmlnVHhjMkc1QlE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQdHRaNnBaRkpmZjM4RmR5S0ZPUTBmaS1xQVgydVRlMTJfYUhaa29wUG9ucU1ReUdkUzAyaFVnLUVzbzNCVzdLM21JTGdsZnJKcHpfcnRMYWwyeTJ2c2FtbjFaUHBzSjQwSkpsSjc2ZExIal9FMzZDTWxfNHR4czl6QzBxbzJhSFZpUnVsZHJCR2VLWHRSUDhRMmlnVHhjMkc1QlE?oc=5\" target=\"_blank\">Owning crypto might soon help you get a mortgage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
       "source": "Google News"
     },
     {
@@ -728,15 +770,15 @@
       "source": "Google News"
     },
     {
-      "title": "Best Crypto to Buy Now as FATF Seeks More Crypto Oversight - The Cryptonomist",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbl94TkEtQzFsMmhSUTh0T0IyMjlqcjBNVlFtbnJyT01iTkhiMFVPaVVlTmRxZ0NGSW9SeTBrdXNqaG5KYnBDbC04Q3NwWE5SbXFWRDFFMHBaaUtOWGRRZ0pmVkh6RXdwZHcwM3NDV0didGMxQ29nSzV2X1lRQTNyWVhTR09GMUdBSWRNOTZ1NXRnUEprT3Bfc1JWMTd2QQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNbl94TkEtQzFsMmhSUTh0T0IyMjlqcjBNVlFtbnJyT01iTkhiMFVPaVVlTmRxZ0NGSW9SeTBrdXNqaG5KYnBDbC04Q3NwWE5SbXFWRDFFMHBaaUtOWGRRZ0pmVkh6RXdwZHcwM3NDV0didGMxQ29nSzV2X1lRQTNyWVhTR09GMUdBSWRNOTZ1NXRnUEprT3Bfc1JWMTd2QQ?oc=5\" target=\"_blank\">Best Crypto to Buy Now as FATF Seeks More Crypto Oversight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Cryptonomist</font>",
+      "title": "Crypto Today: Bitcoin volume cools amid steady ETF inflows while Ethereum and XRP prices consolidate - FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZVVwczVoT0M5TVowYl9Mc0ZpbUxIVFFTREJubFBJdWhEazJ6eDFYWm9GMXc1NXJXQUpkc3NncDdhRDk1eUVqTV9OVUhwOHhNZlNGSW40S0tCMFZfTlRHeDNUZ01COEJ0VENzamd1bzY5Q1ZPRXM5N3dJLWpTSEloNlNrODJMSW1WeEo1eG1qVk01OGZUTE9hRFEyaGZldm9Ic0djTFVfMXNiMC0xeHVOQVRtVlVKSElTenpTTEoyczFDdEpsQU5yVGlIQzY3TWtSNFFMQjJFUHM5S3JjcXFWNzVyNDhNMVJrVUkxcm9nLUzSAfYBQVVfeXFMUFBaeHZ3UEpDb0JlR25HTnMwUFBvdGRqdm52d3VRTlg3X3hmWVVnU0ZZTjhBVDAxRDc0a1dORGtwSk1UcnVqSm5HSkt0ME80a2lLMXpIdzV3Vk5kc2VqcXJ1aGM0VEJja0pSaGNncVdpbjFnY19IblpGMnJDSG9zX1NaUWtJZzFCZFV0cmJub1FKbXdoR29Yc1N4cDF5NnhlVzRjeXVxY1QtYVZpVVRvU2JCRmdOSkF0a0l4YmNFWlJtRWg0ZGh6M09kSjRoekx5ODVUNzlONkd0TlVqZHU2SjBaUmFDREkxTnhqbnFZWkYyTHkzY2F3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZVVwczVoT0M5TVowYl9Mc0ZpbUxIVFFTREJubFBJdWhEazJ6eDFYWm9GMXc1NXJXQUpkc3NncDdhRDk1eUVqTV9OVUhwOHhNZlNGSW40S0tCMFZfTlRHeDNUZ01COEJ0VENzamd1bzY5Q1ZPRXM5N3dJLWpTSEloNlNrODJMSW1WeEo1eG1qVk01OGZUTE9hRFEyaGZldm9Ic0djTFVfMXNiMC0xeHVOQVRtVlVKSElTenpTTEoyczFDdEpsQU5yVGlIQzY3TWtSNFFMQjJFUHM5S3JjcXFWNzVyNDhNMVJrVUkxcm9nLUzSAfYBQVVfeXFMUFBaeHZ3UEpDb0JlR25HTnMwUFBvdGRqdm52d3VRTlg3X3hmWVVnU0ZZTjhBVDAxRDc0a1dORGtwSk1UcnVqSm5HSkt0ME80a2lLMXpIdzV3Vk5kc2VqcXJ1aGM0VEJja0pSaGNncVdpbjFnY19IblpGMnJDSG9zX1NaUWtJZzFCZFV0cmJub1FKbXdoR29Yc1N4cDF5NnhlVzRjeXVxY1QtYVZpVVRvU2JCRmdOSkF0a0l4YmNFWlJtRWg0ZGh6M09kSjRoekx5ODVUNzlONkd0TlVqZHU2SjBaUmFDREkxTnhqbnFZWkYyTHkzY2F3?oc=5\" target=\"_blank\">Crypto Today: Bitcoin volume cools amid steady ETF inflows while Ethereum and XRP prices consolidate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FXStreet</font>",
       "source": "Google News"
     },
     {
-      "title": "These men allegedly kidnapped and tortured their friend. It may have been all for crypto - Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaUpoOGxLRldZR29qSnIzWVBLWDVQUEY3elJTd0JkUXNNVHl4dnRFV0Y0UTJyWnZ6Yl9WWUNYSTZWaDJycUZkM3I0dDJ3dUozMEFTOEdVU2NVbTQwamhTQVoyM0NkQ0dSYWdhcGJXY1h6eTZDeWhpR2RkZkNPXzNDb05nd0hDcFFvQkhXRVJIcC1FLTlsUXYzd3ppNDVGMjkyb2k1NQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQaUpoOGxLRldZR29qSnIzWVBLWDVQUEY3elJTd0JkUXNNVHl4dnRFV0Y0UTJyWnZ6Yl9WWUNYSTZWaDJycUZkM3I0dDJ3dUozMEFTOEdVU2NVbTQwamhTQVoyM0NkQ0dSYWdhcGJXY1h6eTZDeWhpR2RkZkNPXzNDb05nd0hDcFFvQkhXRVJIcC1FLTlsUXYzd3ppNDVGMjkyb2k1NQ?oc=5\" target=\"_blank\">These men allegedly kidnapped and tortured their friend. It may have been all for crypto</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Australian Broadcasting Corporation</font>",
+      "title": "Singapore crypto crackdown set to spark moves to Hong Kong and Dubai - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPWDJDemtwUFZZaW10TG9Nam53cGJ5QVNma250VlJjaXFFRkQtdTZsYWhhcWFxeWpRZmlsVVBXZWdVdzd3LU5nUHR1VlQxYU53dVk2MngyanYxZVI1cXBmZGJaMGs0elBjSFFxY3VrbU0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBPWDJDemtwUFZZaW10TG9Nam53cGJ5QVNma250VlJjaXFFRkQtdTZsYWhhcWFxeWpRZmlsVVBXZWdVdzd3LU5nUHR1VlQxYU53dVk2MngyanYxZVI1cXBmZGJaMGs0elBjSFFxY3VrbU0?oc=5\" target=\"_blank\">Singapore crypto crackdown set to spark moves to Hong Kong and Dubai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
       "source": "Google News"
     },
     {
@@ -752,24 +794,6 @@
       "source": "Google News"
     },
     {
-      "title": "Singapore crypto crackdown set to spark moves to Hong Kong and Dubai - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPWDJDemtwUFZZaW10TG9Nam53cGJ5QVNma250VlJjaXFFRkQtdTZsYWhhcWFxeWpRZmlsVVBXZWdVdzd3LU5nUHR1VlQxYU53dVk2MngyanYxZVI1cXBmZGJaMGs0elBjSFFxY3VrbU0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBPWDJDemtwUFZZaW10TG9Nam53cGJ5QVNma250VlJjaXFFRkQtdTZsYWhhcWFxeWpRZmlsVVBXZWdVdzd3LU5nUHR1VlQxYU53dVk2MngyanYxZVI1cXBmZGJaMGs0elBjSFFxY3VrbU0?oc=5\" target=\"_blank\">Singapore crypto crackdown set to spark moves to Hong Kong and Dubai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-      "source": "Google News"
-    },
-    {
-      "title": "White House, senators eye September deadline for crypto framework - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdGc0TGxJYlRHUjVKOUxUT1d0NHJjZ0twMldLc1ctNXBmdXNWNy1QYlpBUlJ5RkpBRHNRbnYzUFQxd3BGVDVWQW1kQzNaUGVrbjZFQWg4VWh2ek9VZU1NaUt2aGxUMEE3MG9xbXcyZmZzdklselR0Z3BibVE3WmRTWWpfX0UxQ2VHY0FEbWR1Z1hTREZuYWN2ajBza2RjVThBRGNvb2VHQXFkUVNOT1Y0NtIBtgFBVV95cUxOQnF4M3gxTjlGeG1pS25lTTZRSmdBcEVpV2pvbGNfTGYxLWNPQ1IwYllpamI3ZEg5WWU3V1BXbFI4ZkNzX0ctZXlLU3BZbVBxUjB3ZWI3V3BuR0M4NVRZcVFuS1ZqZ1ZQOE1GV2plZTFUanc0NFlPeFdJWldGczR2WXhLdlBGM21Rc1VUakpYNDR6UzdQcF9Ib3FMNl9HX1FiNElpWmJnU2ZFWHRoRzI1elBtbjhodw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNdGc0TGxJYlRHUjVKOUxUT1d0NHJjZ0twMldLc1ctNXBmdXNWNy1QYlpBUlJ5RkpBRHNRbnYzUFQxd3BGVDVWQW1kQzNaUGVrbjZFQWg4VWh2ek9VZU1NaUt2aGxUMEE3MG9xbXcyZmZzdklselR0Z3BibVE3WmRTWWpfX0UxQ2VHY0FEbWR1Z1hTREZuYWN2ajBza2RjVThBRGNvb2VHQXFkUVNOT1Y0NtIBtgFBVV95cUxOQnF4M3gxTjlGeG1pS25lTTZRSmdBcEVpV2pvbGNfTGYxLWNPQ1IwYllpamI3ZEg5WWU3V1BXbFI4ZkNzX0ctZXlLU3BZbVBxUjB3ZWI3V3BuR0M4NVRZcVFuS1ZqZ1ZQOE1GV2plZTFUanc0NFlPeFdJWldGczR2WXhLdlBGM21Rc1VUakpYNDR6UzdQcF9Ib3FMNl9HX1FiNElpWmJnU2ZFWHRoRzI1elBtbjhodw?oc=5\" target=\"_blank\">White House, senators eye September deadline for crypto framework</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>",
-      "source": "Google News"
-    },
-    {
-      "title": "\"Crypto Died In 2021\" - Cointribune",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03RmtXNG9VcXNQcE1iVkJIVy1WSmU2ZVRubDVOQU53MXBrZXdEcGROek1fT2ZhcjdsUmltMVEyZ3ZqaDJOUV9XUzJmLU5zNWZLczAtdEdiRk1fYjNyOGlGZg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE03RmtXNG9VcXNQcE1iVkJIVy1WSmU2ZVRubDVOQU53MXBrZXdEcGROek1fT2ZhcjdsUmltMVEyZ3ZqaDJOUV9XUzJmLU5zNWZLczAtdEdiRk1fYjNyOGlGZg?oc=5\" target=\"_blank\">\"Crypto Died In 2021\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cointribune</font>",
-      "source": "Google News"
-    },
-    {
       "title": "\u2018We have hit a wall\u2019: Kevin O\u2019Leary predicts a trillion-dollar crypto rush if Congress passes these 2 bills - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTS21lb1RobHJNbElxT3psYkY3NFE1U1RBTWtZQ1hhNFZBU1BYY0plTnVsY1J5R1dkM1otWFlaQ29zekczbDgyODVTOXdpQlZyMW9ZalRCVE1taFUzd3dlS2s4c3R3VkVfc0hmSFM3U2lfUFdmZG1N?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBTS21lb1RobHJNbElxT3psYkY3NFE1U1RBTWtZQ1hhNFZBU1BYY0plTnVsY1J5R1dkM1otWFlaQ29zekczbDgyODVTOXdpQlZyMW9ZalRCVE1taFUzd3dlS2s4c3R3VkVfc0hmSFM3U2lfUFdmZG1N?oc=5\" target=\"_blank\">\u2018We have hit a wall\u2019: Kevin O\u2019Leary predicts a trillion-dollar crypto rush if Congress passes these 2 bills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
@@ -782,9 +806,15 @@
       "source": "Google News"
     },
     {
-      "title": "Why Is Crypto Down Today? \u2013 June 27, 2025 - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ0ttXzIwVjR5WXZ0LW1CZ1JmYUZMTzNWNkthU2g4Uk5Wdm9qUUNyQWRLanlndnp3SGc4NHFxSFowNDVRdHdJRThYRlFrM095aTQ4R3JnSXBBdnlxUktpWFE1czctZk9XVmJCSy1oNVdaUUkzX2ZMX1I5SGMxMGZqeGNBMUV0OEZHcTVHZzFIel94WGVtS1d2ZVNacVpwbTQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ0ttXzIwVjR5WXZ0LW1CZ1JmYUZMTzNWNkthU2g4Uk5Wdm9qUUNyQWRLanlndnp3SGc4NHFxSFowNDVRdHdJRThYRlFrM095aTQ4R3JnSXBBdnlxUktpWFE1czctZk9XVmJCSy1oNVdaUUkzX2ZMX1I5SGMxMGZqeGNBMUV0OEZHcTVHZzFIel94WGVtS1d2ZVNacVpwbTQ?oc=5\" target=\"_blank\">Why Is Crypto Down Today? \u2013 June 27, 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "title": "\"Crypto Died In 2021\" - Cointribune",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03RmtXNG9VcXNQcE1iVkJIVy1WSmU2ZVRubDVOQU53MXBrZXdEcGROek1fT2ZhcjdsUmltMVEyZ3ZqaDJOUV9XUzJmLU5zNWZLczAtdEdiRk1fYjNyOGlGZg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE03RmtXNG9VcXNQcE1iVkJIVy1WSmU2ZVRubDVOQU53MXBrZXdEcGROek1fT2ZhcjdsUmltMVEyZ3ZqaDJOUV9XUzJmLU5zNWZLczAtdEdiRk1fYjNyOGlGZg?oc=5\" target=\"_blank\">\"Crypto Died In 2021\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cointribune</font>",
+      "source": "Google News"
+    },
+    {
+      "title": "White House, senators eye September deadline for crypto framework - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdGc0TGxJYlRHUjVKOUxUT1d0NHJjZ0twMldLc1ctNXBmdXNWNy1QYlpBUlJ5RkpBRHNRbnYzUFQxd3BGVDVWQW1kQzNaUGVrbjZFQWg4VWh2ek9VZU1NaUt2aGxUMEE3MG9xbXcyZmZzdklselR0Z3BibVE3WmRTWWpfX0UxQ2VHY0FEbWR1Z1hTREZuYWN2ajBza2RjVThBRGNvb2VHQXFkUVNOT1Y0NtIBtgFBVV95cUxOQnF4M3gxTjlGeG1pS25lTTZRSmdBcEVpV2pvbGNfTGYxLWNPQ1IwYllpamI3ZEg5WWU3V1BXbFI4ZkNzX0ctZXlLU3BZbVBxUjB3ZWI3V3BuR0M4NVRZcVFuS1ZqZ1ZQOE1GV2plZTFUanc0NFlPeFdJWldGczR2WXhLdlBGM21Rc1VUakpYNDR6UzdQcF9Ib3FMNl9HX1FiNElpWmJnU2ZFWHRoRzI1elBtbjhodw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNdGc0TGxJYlRHUjVKOUxUT1d0NHJjZ0twMldLc1ctNXBmdXNWNy1QYlpBUlJ5RkpBRHNRbnYzUFQxd3BGVDVWQW1kQzNaUGVrbjZFQWg4VWh2ek9VZU1NaUt2aGxUMEE3MG9xbXcyZmZzdklselR0Z3BibVE3WmRTWWpfX0UxQ2VHY0FEbWR1Z1hTREZuYWN2ajBza2RjVThBRGNvb2VHQXFkUVNOT1Y0NtIBtgFBVV95cUxOQnF4M3gxTjlGeG1pS25lTTZRSmdBcEVpV2pvbGNfTGYxLWNPQ1IwYllpamI3ZEg5WWU3V1BXbFI4ZkNzX0ctZXlLU3BZbVBxUjB3ZWI3V3BuR0M4NVRZcVFuS1ZqZ1ZQOE1GV2plZTFUanc0NFlPeFdJWldGczR2WXhLdlBGM21Rc1VUakpYNDR6UzdQcF9Ib3FMNl9HX1FiNElpWmJnU2ZFWHRoRzI1elBtbjhodw?oc=5\" target=\"_blank\">White House, senators eye September deadline for crypto framework</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>",
       "source": "Google News"
     },
     {
@@ -794,21 +824,9 @@
       "source": "Google News"
     },
     {
-      "title": "Crypto Daybook Americas: Bitcoin Calm Masks Tension Over Fed, Geopolitics - CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcUhvRFBCZk5LZEptQ3pGMVk4Vm1ZZUo5dVM3ZHFlV2xHd01DVVFaVlpEQldwbG9PQjBwLVI3SGhvWVVGdHhyWkFiNlZXcWNlTHRuUURkdEpDVzVERU5yTC1MZmtEN3JxU1VhbVY1MGpCaXBoUWZ0VXE5OTVQWjF6a3JvM216anV0N2ozY3VzdmhuMWkxREJjcUV5endJRTJBeER4bG1DU0ctS3pOaFZCNGw0V1otdm1uSnc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOcUhvRFBCZk5LZEptQ3pGMVk4Vm1ZZUo5dVM3ZHFlV2xHd01DVVFaVlpEQldwbG9PQjBwLVI3SGhvWVVGdHhyWkFiNlZXcWNlTHRuUURkdEpDVzVERU5yTC1MZmtEN3JxU1VhbVY1MGpCaXBoUWZ0VXE5OTVQWjF6a3JvM216anV0N2ozY3VzdmhuMWkxREJjcUV5endJRTJBeER4bG1DU0ctS3pOaFZCNGw0V1otdm1uSnc?oc=5\" target=\"_blank\">Crypto Daybook Americas: Bitcoin Calm Masks Tension Over Fed, Geopolitics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinDesk</font>",
-      "source": "Google News"
-    },
-    {
-      "title": "Crypto Today: Bitcoin volume cools amid steady ETF inflows while Ethereum and XRP prices consolidate - FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZVVwczVoT0M5TVowYl9Mc0ZpbUxIVFFTREJubFBJdWhEazJ6eDFYWm9GMXc1NXJXQUpkc3NncDdhRDk1eUVqTV9OVUhwOHhNZlNGSW40S0tCMFZfTlRHeDNUZ01COEJ0VENzamd1bzY5Q1ZPRXM5N3dJLWpTSEloNlNrODJMSW1WeEo1eG1qVk01OGZUTE9hRFEyaGZldm9Ic0djTFVfMXNiMC0xeHVOQVRtVlVKSElTenpTTEoyczFDdEpsQU5yVGlIQzY3TWtSNFFMQjJFUHM5S3JjcXFWNzVyNDhNMVJrVUkxcm9nLUzSAfYBQVVfeXFMUFBaeHZ3UEpDb0JlR25HTnMwUFBvdGRqdm52d3VRTlg3X3hmWVVnU0ZZTjhBVDAxRDc0a1dORGtwSk1UcnVqSm5HSkt0ME80a2lLMXpIdzV3Vk5kc2VqcXJ1aGM0VEJja0pSaGNncVdpbjFnY19IblpGMnJDSG9zX1NaUWtJZzFCZFV0cmJub1FKbXdoR29Yc1N4cDF5NnhlVzRjeXVxY1QtYVZpVVRvU2JCRmdOSkF0a0l4YmNFWlJtRWg0ZGh6M09kSjRoekx5ODVUNzlONkd0TlVqZHU2SjBaUmFDREkxTnhqbnFZWkYyTHkzY2F3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZVVwczVoT0M5TVowYl9Mc0ZpbUxIVFFTREJubFBJdWhEazJ6eDFYWm9GMXc1NXJXQUpkc3NncDdhRDk1eUVqTV9OVUhwOHhNZlNGSW40S0tCMFZfTlRHeDNUZ01COEJ0VENzamd1bzY5Q1ZPRXM5N3dJLWpTSEloNlNrODJMSW1WeEo1eG1qVk01OGZUTE9hRFEyaGZldm9Ic0djTFVfMXNiMC0xeHVOQVRtVlVKSElTenpTTEoyczFDdEpsQU5yVGlIQzY3TWtSNFFMQjJFUHM5S3JjcXFWNzVyNDhNMVJrVUkxcm9nLUzSAfYBQVVfeXFMUFBaeHZ3UEpDb0JlR25HTnMwUFBvdGRqdm52d3VRTlg3X3hmWVVnU0ZZTjhBVDAxRDc0a1dORGtwSk1UcnVqSm5HSkt0ME80a2lLMXpIdzV3Vk5kc2VqcXJ1aGM0VEJja0pSaGNncVdpbjFnY19IblpGMnJDSG9zX1NaUWtJZzFCZFV0cmJub1FKbXdoR29Yc1N4cDF5NnhlVzRjeXVxY1QtYVZpVVRvU2JCRmdOSkF0a0l4YmNFWlJtRWg0ZGh6M09kSjRoekx5ODVUNzlONkd0TlVqZHU2SjBaUmFDREkxTnhqbnFZWkYyTHkzY2F3?oc=5\" target=\"_blank\">Crypto Today: Bitcoin volume cools amid steady ETF inflows while Ethereum and XRP prices consolidate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FXStreet</font>",
-      "source": "Google News"
-    },
-    {
-      "title": "Federal judge rejects SEC and Ripple\u2019s joint motion to settle lawsuit: CNBC Crypto World - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaHRUTkFfUnN1Zy12UTN3Yk1zQ09tdmw1SW1EVTdpektXZTYyUHpRSnRHWlhoYTdteDQxc0lpNWJrdGQ1cU1BamE1SF83c1VYaG5vcG9NaVViTkQ0TzQzOTZ3c1Z5d3dmbDJ4VVV6ZnpwMkJNVDFoa1FhaElEMUlTdEtZWG02cTJLUEtYTGRkS3JNQTU3SExqeFBibXZGdFhPWnM1cmNEY2lCVlNrNldpdF9Hc0VJYUVpSUlmQ213?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQaHRUTkFfUnN1Zy12UTN3Yk1zQ09tdmw1SW1EVTdpektXZTYyUHpRSnRHWlhoYTdteDQxc0lpNWJrdGQ1cU1BamE1SF83c1VYaG5vcG9NaVViTkQ0TzQzOTZ3c1Z5d3dmbDJ4VVV6ZnpwMkJNVDFoa1FhaElEMUlTdEtZWG02cTJLUEtYTGRkS3JNQTU3SExqeFBibXZGdFhPWnM1cmNEY2lCVlNrNldpdF9Hc0VJYUVpSUlmQ213?oc=5\" target=\"_blank\">Federal judge rejects SEC and Ripple\u2019s joint motion to settle lawsuit: CNBC Crypto World</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "title": "Why Is Crypto Down Today? \u2013 June 27, 2025 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ0ttXzIwVjR5WXZ0LW1CZ1JmYUZMTzNWNkthU2g4Uk5Wdm9qUUNyQWRLanlndnp3SGc4NHFxSFowNDVRdHdJRThYRlFrM095aTQ4R3JnSXBBdnlxUktpWFE1czctZk9XVmJCSy1oNVdaUUkzX2ZMX1I5SGMxMGZqeGNBMUV0OEZHcTVHZzFIel94WGVtS1d2ZVNacVpwbTQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ0ttXzIwVjR5WXZ0LW1CZ1JmYUZMTzNWNkthU2g4Uk5Wdm9qUUNyQWRLanlndnp3SGc4NHFxSFowNDVRdHdJRThYRlFrM095aTQ4R3JnSXBBdnlxUktpWFE1czctZk9XVmJCSy1oNVdaUUkzX2ZMX1I5SGMxMGZqeGNBMUV0OEZHcTVHZzFIel94WGVtS1d2ZVNacVpwbTQ?oc=5\" target=\"_blank\">Why Is Crypto Down Today? \u2013 June 27, 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
       "source": "Google News"
     },
     {
@@ -818,573 +836,555 @@
       "source": "Google News"
     },
     {
+      "title": "Schiff unveils presidential crypto ban legislation - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTGRNOHVNZDZ6dm84eVRBdktCMnpNME1pd2JVNl9sUkxYMXM2bWYtWFB0UlNibEtaQnkxVThDc0lOV0dlWTZMTHVvSkdFN0xpWlpnb2ExYU1VbklUMXh3QWhfY3h3MHN2Ym9oUlk5dk12dGF5ODRjMHVzNTVDcEx4bnd1VEZXSDdXaGdGS3BQYURfUlNIS0NIbNIBngFBVV95cUxQLWdmU1FuekRUUXhkV0lnVnRkUENQZUJNNUdEUTNESlA5emdJZUJnaGFJZTEzY0JhbjBTWVo2LW1QeHBjYjd6TzFTUXJtdGNqOU45WEJHcWhaRkR1WW5UVDYxSHJpWVBKZElZX0JGVXlDZC1UOTVJbWpGbmZQaW5zbi12bmFFeVFkVkdpNF9UMlJHeGVtcFV4eWtxVWNBQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNTGRNOHVNZDZ6dm84eVRBdktCMnpNME1pd2JVNl9sUkxYMXM2bWYtWFB0UlNibEtaQnkxVThDc0lOV0dlWTZMTHVvSkdFN0xpWlpnb2ExYU1VbklUMXh3QWhfY3h3MHN2Ym9oUlk5dk12dGF5ODRjMHVzNTVDcEx4bnd1VEZXSDdXaGdGS3BQYURfUlNIS0NIbNIBngFBVV95cUxQLWdmU1FuekRUUXhkV0lnVnRkUENQZUJNNUdEUTNESlA5emdJZUJnaGFJZTEzY0JhbjBTWVo2LW1QeHBjYjd6TzFTUXJtdGNqOU45WEJHcWhaRkR1WW5UVDYxSHJpWVBKZElZX0JGVXlDZC1UOTVJbWpGbmZQaW5zbi12bmFFeVFkVkdpNF9UMlJHeGVtcFV4eWtxVWNBQQ?oc=5\" target=\"_blank\">Schiff unveils presidential crypto ban legislation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>",
+      "source": "Google News"
+    },
+    {
       "title": "Citibank accused of ignoring signs of $20M crypto romance scam - Cointelegraph",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYkRKS0RnWDF5S1YzNTlFb19HZU9yM0JTQzBGc3ZQX0plZkdSSW9leWZiVEtrQ3RvMzBzcFJqaWhfMThNZWF4SWpGOVVGcnFKSEFmN0hfNU42b0xYRVh2aDFJNXNLb0xmelFtUGk1ZzBuTnFBSUQwaGt6bFdQaDAxai1hRW03NEgxcWd3dXJNRQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQYkRKS0RnWDF5S1YzNTlFb19HZU9yM0JTQzBGc3ZQX0plZkdSSW9leWZiVEtrQ3RvMzBzcFJqaWhfMThNZWF4SWpGOVVGcnFKSEFmN0hfNU42b0xYRVh2aDFJNXNLb0xmelFtUGk1ZzBuTnFBSUQwaGt6bFdQaDAxai1hRW03NEgxcWd3dXJNRQ?oc=5\" target=\"_blank\">Citibank accused of ignoring signs of $20M crypto romance scam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cointelegraph</font>",
       "source": "Google News"
     },
     {
-      "title": "Aptos Labs, Jump Crypto launch Web3 cloud storage layer - Cointelegraph",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83aGU2dGdscTlsQmRwbXZNZEhESlNvVmJscm1wVlZOQjY1QzJQMnQwN0NXUTZUci1PSmE4djBFYm81bHZiU0ZQYkxITkFSOFBObjUyVm1hVUhzcFhFV3B6REh3TGozNmtka1NWa3htOEc2dEpfX0REMGdCM25tYXc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE83aGU2dGdscTlsQmRwbXZNZEhESlNvVmJscm1wVlZOQjY1QzJQMnQwN0NXUTZUci1PSmE4djBFYm81bHZiU0ZQYkxITkFSOFBObjUyVm1hVUhzcFhFV3B6REh3TGozNmtka1NWa3htOEc2dEpfX0REMGdCM25tYXc?oc=5\" target=\"_blank\">Aptos Labs, Jump Crypto launch Web3 cloud storage layer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cointelegraph</font>",
-      "source": "Google News"
-    },
-    {
-      "title": "DeepSeek under scrutiny in Germany, AI tokens falter - TheStreet",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWllXYk9ZRVNPcjhDNXRNUm9MbGJGQXcwY1RhWUJVZGJXNTl2RzJCSERHV0x5d1FkQzd3SW1UZXYtaDRiSDRrbWxGMzFVSkItZGtaRVZTMXkzVUpYVEwzN3lPQnZ4bHg5ZklRemg3OS00aFJocnNHanU2ZDBLczE2UXZuVjdKVFVpQktwTzJhcTVJZ1lPdU53?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQWllXYk9ZRVNPcjhDNXRNUm9MbGJGQXcwY1RhWUJVZGJXNTl2RzJCSERHV0x5d1FkQzd3SW1UZXYtaDRiSDRrbWxGMzFVSkItZGtaRVZTMXkzVUpYVEwzN3lPQnZ4bHg5ZklRemg3OS00aFJocnNHanU2ZDBLczE2UXZuVjdKVFVpQktwTzJhcTVJZ1lPdU53?oc=5\" target=\"_blank\">DeepSeek under scrutiny in Germany, AI tokens falter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheStreet</font>",
-      "source": "Google News"
-    },
-    {
-      "title": "Watch Stablecoins Emerge As Crypto's Next Big Disruptor | Bloomberg Crypto 6/26/2025 - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWU4xclFwRnViNloyNS16Nm8yOTdHamRHNlVYOTVpaGp4WWdsMzJySUVIS1lPNWRYaGFUTjRsOTVSZEJMQ0xLamFtTEpWY3ctWkRoMW5FUHlEaUVDbnl4dFRxNmVNc2dUVWJnQ21fb2M0M1EyOERhTmw1QnktMURCNVYzWFNoOVds?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWU4xclFwRnViNloyNS16Nm8yOTdHamRHNlVYOTVpaGp4WWdsMzJySUVIS1lPNWRYaGFUTjRsOTVSZEJMQ0xLamFtTEpWY3ctWkRoMW5FUHlEaUVDbnl4dFRxNmVNc2dUVWJnQ21fb2M0M1EyOERhTmw1QnktMURCNVYzWFNoOVds?oc=5\" target=\"_blank\">Watch Stablecoins Emerge As Crypto's Next Big Disruptor | Bloomberg Crypto 6/26/2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
-      "source": "Google News"
-    },
-    {
-      "title": "SoFi Reintroduces Crypto Capabilities to Financial Services Offering - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYk5acnpnaGVNVGdwS0s4Wk5kV1E0em04a0xjUXVoeGR1YjlzbkpxUzFZbmFtN2hhNWNwV1BqTEFsNHlXeVBPYmxGNmtsTDdqdDNWWlBQOTF6Z05QT3ZoUkJrcnZCanpkeDBQRTh5TlZRamtzWkFiMF9pdFVXdFh2NlFxOEQzd2pXTmhLNzV1dm5YUjBod1lxcGtkbWo2MjJEckttc1k0VmNKd0w2Y01UVTdB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPYk5acnpnaGVNVGdwS0s4Wk5kV1E0em04a0xjUXVoeGR1YjlzbkpxUzFZbmFtN2hhNWNwV1BqTEFsNHlXeVBPYmxGNmtsTDdqdDNWWlBQOTF6Z05QT3ZoUkJrcnZCanpkeDBQRTh5TlZRamtzWkFiMF9pdFVXdFh2NlFxOEQzd2pXTmhLNzV1dm5YUjBod1lxcGtkbWo2MjJEckttc1k0VmNKd0w2Y01UVTdB?oc=5\" target=\"_blank\">SoFi Reintroduces Crypto Capabilities to Financial Services Offering</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PYMNTS.com</font>",
-      "source": "Google News"
-    },
-    {
       "symbol": "BTC",
       "name": "Bitcoin (BTC / USD)",
-      "price": 106543.7,
-      "change": -415.2,
-      "percent_change": 0.39,
-      "price_change_percentage_24h": 0.39,
+      "price": 106957.6,
+      "change": -1.3,
+      "percent_change": 0.0012,
+      "price_change_percentage_24h": 0.0012,
       "source": "Google Finance"
     },
     {
       "symbol": "ETH",
       "name": "Ether (ETH / USD)",
-      "price": 2421.21,
-      "change": 5.24,
-      "percent_change": 0.22,
-      "price_change_percentage_24h": 0.22,
+      "price": 2431.54,
+      "change": 15.57,
+      "percent_change": 0.64,
+      "price_change_percentage_24h": 0.64,
       "source": "Google Finance"
     },
     {
       "symbol": "ADA",
       "name": "Cardano (ADA / USD)",
-      "price": 0.5482,
-      "change": -0.0064,
-      "percent_change": 1.15,
-      "price_change_percentage_24h": 1.15,
+      "price": 0.5538,
+      "change": -0.00074,
+      "percent_change": 0.13,
+      "price_change_percentage_24h": 0.13,
       "source": "Google Finance"
     },
     {
       "symbol": "BNB",
       "name": "Binance Coin (BNB / USD)",
-      "price": 644.7156,
-      "change": 2.3251,
-      "percent_change": 0.36,
-      "price_change_percentage_24h": 0.36,
+      "price": 646.7655,
+      "change": 4.3749,
+      "percent_change": 0.68,
+      "price_change_percentage_24h": 0.68,
       "source": "Google Finance"
     },
     {
       "symbol": "USDT",
       "name": "Tether (USDT / USD)",
-      "price": 1.0003,
-      "change": -8.1e-05,
-      "percent_change": 0.0081,
-      "price_change_percentage_24h": 0.0081,
+      "price": 1.0002,
+      "change": -0.00011,
+      "percent_change": 0.011,
+      "price_change_percentage_24h": 0.011,
       "source": "Google Finance"
     },
     {
       "symbol": "XRP",
       "name": "XRP (XRP / USD)",
-      "price": 2.0784,
-      "change": -0.0263,
-      "percent_change": 1.25,
-      "price_change_percentage_24h": 1.25,
+      "price": 2.0914,
+      "change": -0.0133,
+      "percent_change": 0.63,
+      "price_change_percentage_24h": 0.63,
       "source": "Google Finance"
     },
     {
       "symbol": "DOGE",
       "name": "Dogecoin (DOGE / USD)",
-      "price": 0.1583,
-      "change": -0.0011,
-      "percent_change": 0.7,
-      "price_change_percentage_24h": 0.7,
+      "price": 0.1594,
+      "change": 3.5e-05,
+      "percent_change": 0.022,
+      "price_change_percentage_24h": 0.022,
       "source": "Google Finance"
     },
     {
       "symbol": "LINK",
       "name": "ChainLink (LINK / USD)",
-      "price": 12.8886,
-      "change": -0.0476,
-      "percent_change": 0.37,
-      "price_change_percentage_24h": 0.37,
+      "price": 12.9942,
+      "change": 0.0579,
+      "percent_change": 0.45,
+      "price_change_percentage_24h": 0.45,
       "source": "Google Finance"
     },
     {
       "symbol": "LTC",
       "name": "Litecoin (LTC / USD)",
-      "price": 83.65,
-      "change": -0.6,
-      "percent_change": 0.71,
-      "price_change_percentage_24h": 0.71,
+      "price": 83.95,
+      "change": -0.3,
+      "percent_change": 0.36,
+      "price_change_percentage_24h": 0.36,
       "source": "Google Finance"
     },
     {
       "symbol": "BCH",
       "name": "Bitcoin Cash (BCH / USD)",
-      "price": 490.34,
-      "change": 0.89,
-      "percent_change": 0.18,
-      "price_change_percentage_24h": 0.18,
+      "price": 491.22,
+      "change": 1.77,
+      "percent_change": 0.36,
+      "price_change_percentage_24h": 0.36,
       "source": "Google Finance"
     },
     {
       "symbol": "XLM",
       "name": "Lumens (XLM / USD)",
-      "price": 0.2329,
-      "change": -0.00096,
-      "percent_change": 0.41,
-      "price_change_percentage_24h": 0.41,
+      "price": 0.2354,
+      "change": 0.0015,
+      "percent_change": 0.66,
+      "price_change_percentage_24h": 0.66,
       "source": "Google Finance"
     },
     {
       "symbol": "TRX",
       "name": "TRON (TRX / USD)",
       "price": 0.2712,
-      "change": 7.4e-05,
-      "percent_change": 0.027,
-      "price_change_percentage_24h": 0.027,
+      "change": 5.9e-05,
+      "percent_change": 0.022,
+      "price_change_percentage_24h": 0.022,
       "source": "Google Finance"
     },
     {
       "symbol": "ETC",
       "name": "Ethereum Classic (ETC / USD)",
-      "price": 15.9588,
-      "change": -0.165,
-      "percent_change": 1.02,
-      "price_change_percentage_24h": 1.02,
+      "price": 16.0747,
+      "change": -0.0491,
+      "percent_change": 0.3,
+      "price_change_percentage_24h": 0.3,
       "source": "Google Finance"
     },
     {
       "symbol": "XMR",
       "name": "Monero (XMR / USD)",
-      "price": 307.9742,
-      "change": -3.9924,
-      "percent_change": 1.28,
-      "price_change_percentage_24h": 1.28,
+      "price": 306.6709,
+      "change": -5.2957,
+      "percent_change": 1.7,
+      "price_change_percentage_24h": 1.7,
       "source": "Google Finance"
     },
     {
       "symbol": "EOS",
       "name": "EOS (EOS / USD)",
-      "price": 0.4891,
-      "change": -0.0039,
-      "percent_change": 0.8,
-      "price_change_percentage_24h": 0.8,
+      "price": 0.4921,
+      "change": -0.00096,
+      "percent_change": 0.2,
+      "price_change_percentage_24h": 0.2,
       "source": "Google Finance"
     },
     {
       "symbol": "NEO",
       "name": "NEO (NEO / USD)",
-      "price": 5.2723,
-      "change": -0.0571,
-      "percent_change": 1.07,
-      "price_change_percentage_24h": 1.07,
-      "source": "Google Finance"
-    },
-    {
-      "symbol": "WAVES",
-      "name": "Waves (WAVES / USD)",
-      "price": 10.2262,
-      "change": -0.0375,
-      "percent_change": 0.37,
-      "price_change_percentage_24h": 0.37,
-      "source": "Google Finance"
-    },
-    {
-      "symbol": "DASH",
-      "name": "Dash (DASH / USD)",
-      "price": 19.2647,
-      "change": -0.019,
+      "price": 5.3347,
+      "change": 0.0052,
       "percent_change": 0.098,
       "price_change_percentage_24h": 0.098,
       "source": "Google Finance"
     },
     {
+      "symbol": "WAVES",
+      "name": "Waves (WAVES / USD)",
+      "price": 10.266,
+      "change": 0.0022,
+      "percent_change": 0.022,
+      "price_change_percentage_24h": 0.022,
+      "source": "Google Finance"
+    },
+    {
+      "symbol": "DASH",
+      "name": "Dash (DASH / USD)",
+      "price": 19.3657,
+      "change": 0.0821,
+      "percent_change": 0.43,
+      "price_change_percentage_24h": 0.43,
+      "source": "Google Finance"
+    },
+    {
       "symbol": "OMG",
       "name": "OmiseGO (OMG / USD)",
-      "price": 0.1845,
-      "change": 0.00093,
-      "percent_change": 0.51,
-      "price_change_percentage_24h": 0.51,
+      "price": 0.1852,
+      "change": 0.0016,
+      "percent_change": 0.9,
+      "price_change_percentage_24h": 0.9,
       "source": "Google Finance"
     },
     {
       "symbol": "DCR",
       "name": "Decred (DCR / USD)",
-      "price": 0.0596,
-      "change": 0.0013,
-      "percent_change": 2.3,
-      "price_change_percentage_24h": 2.3,
+      "price": 0.0597,
+      "change": 0.0014,
+      "percent_change": 2.45,
+      "price_change_percentage_24h": 2.45,
       "source": "Google Finance"
     },
     {
       "symbol": "XEM",
       "name": "NEM (XEM / USD)",
       "price": 0.0044,
-      "change": -1.6e-05,
-      "percent_change": 0.37,
-      "price_change_percentage_24h": 0.37,
+      "change": 0.0,
+      "percent_change": 0.022,
+      "price_change_percentage_24h": 0.022,
       "source": "Google Finance"
     },
     {
       "symbol": "MANA",
       "name": "Decentraland (MANA / USD)",
-      "price": 0.244,
-      "change": -0.0024,
-      "percent_change": 0.97,
-      "price_change_percentage_24h": 0.97,
+      "price": 0.2476,
+      "change": 0.0011,
+      "percent_change": 0.46,
+      "price_change_percentage_24h": 0.46,
       "source": "Google Finance"
     },
     {
       "symbol": "ICX",
       "name": "ICON (ICX / USD)",
-      "price": 0.1162,
-      "change": -0.002,
-      "percent_change": 1.72,
-      "price_change_percentage_24h": 1.72,
+      "price": 0.1166,
+      "change": -0.0016,
+      "percent_change": 1.34,
+      "price_change_percentage_24h": 1.34,
       "source": "Google Finance"
     },
     {
       "symbol": "QTUM",
       "name": "Qtum (QTUM / USD)",
-      "price": 1.9165,
-      "change": -0.0183,
-      "percent_change": 0.94,
-      "price_change_percentage_24h": 0.94,
+      "price": 1.9335,
+      "change": -0.0013,
+      "percent_change": 0.067,
+      "price_change_percentage_24h": 0.067,
       "source": "Google Finance"
     },
     {
       "symbol": "ZIL",
       "name": "Zilliqa (ZIL / USD)",
-      "price": 0.0104,
-      "change": 0.00028,
-      "percent_change": 2.78,
-      "price_change_percentage_24h": 2.78,
+      "price": 0.0106,
+      "change": 0.00043,
+      "percent_change": 4.23,
+      "price_change_percentage_24h": 4.23,
       "source": "Google Finance"
     },
     {
       "symbol": "BAT",
       "name": "Basic Attention Token (BAT / USD)",
-      "price": 0.1197,
-      "change": -0.00044,
-      "percent_change": 0.37,
-      "price_change_percentage_24h": 0.37,
+      "price": 0.1212,
+      "change": 0.0011,
+      "percent_change": 0.89,
+      "price_change_percentage_24h": 0.89,
       "source": "Google Finance"
     },
     {
       "symbol": "BTG",
       "name": "Bitgem (BTG / USD)",
-      "price": 0.6447,
-      "change": 0.0137,
-      "percent_change": 2.17,
-      "price_change_percentage_24h": 2.17,
+      "price": 0.6472,
+      "change": 0.0162,
+      "percent_change": 2.56,
+      "price_change_percentage_24h": 2.56,
       "source": "Google Finance"
     },
     {
       "symbol": "BNT",
       "name": "Bancor (BNT / USD)",
-      "price": 0.617,
-      "change": 0.002,
-      "percent_change": 0.33,
-      "price_change_percentage_24h": 0.33,
+      "price": 0.6194,
+      "change": 0.0044,
+      "percent_change": 0.72,
+      "price_change_percentage_24h": 0.72,
       "source": "Google Finance"
     },
     {
       "symbol": "ZRX",
       "name": "0x (ZRX / USD)",
-      "price": 0.2107,
-      "change": -0.00013,
-      "percent_change": 0.062,
-      "price_change_percentage_24h": 0.062,
+      "price": 0.2119,
+      "change": 0.0011,
+      "percent_change": 0.53,
+      "price_change_percentage_24h": 0.53,
       "source": "Google Finance"
     },
     {
       "symbol": "SC",
       "name": "Siacoin (SC / USD)",
       "price": 0.0029,
-      "change": -1.1e-05,
-      "percent_change": 0.37,
-      "price_change_percentage_24h": 0.37,
+      "change": 0.0,
+      "percent_change": 0.022,
+      "price_change_percentage_24h": 0.022,
       "source": "Google Finance"
     },
     {
       "symbol": "ONT",
       "name": "Ontology (ONT / USD)",
-      "price": 0.1171,
-      "change": 0.00053,
-      "percent_change": 0.46,
-      "price_change_percentage_24h": 0.46,
+      "price": 0.118,
+      "change": 0.0014,
+      "percent_change": 1.21,
+      "price_change_percentage_24h": 1.21,
       "source": "Google Finance"
     },
     {
       "symbol": "DGB",
       "name": "DigiByte (DGB / USD)",
-      "price": 0.0074,
-      "change": 8e-05,
-      "percent_change": 1.1,
-      "price_change_percentage_24h": 1.1,
+      "price": 0.0075,
+      "change": 0.00022,
+      "percent_change": 2.96,
+      "price_change_percentage_24h": 2.96,
       "source": "Google Finance"
     },
     {
       "symbol": "NANO",
       "name": "Nano (NANO / USD)",
-      "price": 12.6677,
-      "change": 9.9852,
-      "percent_change": 372.23,
-      "price_change_percentage_24h": 372.23,
+      "price": 12.717,
+      "change": 10.0344,
+      "percent_change": 374.07,
+      "price_change_percentage_24h": 374.07,
       "source": "Google Finance"
     },
     {
       "symbol": "LSK",
       "name": "Lisk (LSK / USD)",
-      "price": 0.3661,
-      "change": 0.0024,
-      "percent_change": 0.66,
-      "price_change_percentage_24h": 0.66,
+      "price": 0.3657,
+      "change": 0.002,
+      "percent_change": 0.55,
+      "price_change_percentage_24h": 0.55,
       "source": "Google Finance"
     },
     {
       "symbol": "GNO",
       "name": "Gnosis (GNO / USD)",
-      "price": 108.3959,
-      "change": 0.6455,
-      "percent_change": 0.6,
-      "price_change_percentage_24h": 0.6,
+      "price": 108.957,
+      "change": 1.2066,
+      "percent_change": 1.12,
+      "price_change_percentage_24h": 1.12,
       "source": "Google Finance"
     },
     {
       "symbol": "XVG",
       "name": "Verge (XVG / USD)",
       "price": 0.0049,
-      "change": 0.0002,
-      "percent_change": 4.16,
-      "price_change_percentage_24h": 4.16,
+      "change": 0.00021,
+      "percent_change": 4.57,
+      "price_change_percentage_24h": 4.57,
       "source": "Google Finance"
     },
     {
       "symbol": "ARDR",
       "name": "Ardor (ARDR / USD)",
-      "price": 0.0806,
-      "change": -0.0012,
-      "percent_change": 1.41,
-      "price_change_percentage_24h": 1.41,
+      "price": 0.0809,
+      "change": -0.00084,
+      "percent_change": 1.03,
+      "price_change_percentage_24h": 1.03,
       "source": "Google Finance"
     },
     {
       "symbol": "SNT",
       "name": "Status (SNT / USD)",
-      "price": 0.0298,
-      "change": -0.00022,
-      "percent_change": 0.72,
-      "price_change_percentage_24h": 0.72,
+      "price": 0.03,
+      "change": -0.0001,
+      "percent_change": 0.33,
+      "price_change_percentage_24h": 0.33,
       "source": "Google Finance"
     },
     {
       "symbol": "MAID",
       "name": "MaidSafeCoin (MAID / USD)",
-      "price": 0.0959,
-      "change": 0.0156,
-      "percent_change": 19.4,
-      "price_change_percentage_24h": 19.4,
+      "price": 0.0963,
+      "change": 0.016,
+      "percent_change": 19.87,
+      "price_change_percentage_24h": 19.87,
       "source": "Google Finance"
     },
     {
       "symbol": "REP",
       "name": "Augur (REP / USD)",
-      "price": 0.682,
-      "change": -0.0239,
-      "percent_change": 3.38,
-      "price_change_percentage_24h": 3.38,
+      "price": 0.6847,
+      "change": -0.0212,
+      "percent_change": 3.01,
+      "price_change_percentage_24h": 3.01,
       "source": "Google Finance"
     },
     {
       "symbol": "ARK",
       "name": "Ark (ARK / USD)",
-      "price": 0.3465,
-      "change": -0.0023,
-      "percent_change": 0.67,
-      "price_change_percentage_24h": 0.67,
+      "price": 0.3484,
+      "change": -0.00035,
+      "percent_change": 0.1,
+      "price_change_percentage_24h": 0.1,
       "source": "Google Finance"
     },
     {
       "symbol": "FUN",
       "name": "FunFair (FUN / USD)",
-      "price": 0.01,
-      "change": -0.00014,
-      "percent_change": 1.41,
-      "price_change_percentage_24h": 1.41,
+      "price": 0.0101,
+      "change": -0.0001,
+      "percent_change": 1.03,
+      "price_change_percentage_24h": 1.03,
       "source": "Google Finance"
     },
     {
       "symbol": "STEEM",
       "name": "Steem (STEEM / USD)",
-      "price": 0.6449,
-      "change": -0.0024,
-      "percent_change": 0.37,
-      "price_change_percentage_24h": 0.37,
+      "price": 0.6475,
+      "change": 0.00014,
+      "percent_change": 0.022,
+      "price_change_percentage_24h": 0.022,
       "source": "Google Finance"
     },
     {
       "symbol": "SYS",
       "name": "Syscoin (SYS / USD)",
-      "price": 0.0331,
-      "change": 0.00052,
-      "percent_change": 1.59,
-      "price_change_percentage_24h": 1.59,
+      "price": 0.0328,
+      "change": 0.00022,
+      "percent_change": 0.68,
+      "price_change_percentage_24h": 0.68,
       "source": "Google Finance"
     },
     {
       "symbol": "BTS",
       "name": "BitShares (BTS / USD)",
       "price": 0.00096,
-      "change": 0.0001,
-      "percent_change": 12.09,
-      "price_change_percentage_24h": 12.09,
+      "change": 0.00011,
+      "percent_change": 12.52,
+      "price_change_percentage_24h": 12.52,
       "source": "Google Finance"
     },
     {
       "symbol": "KMD",
       "name": "Komodo (KMD / USD)",
-      "price": 0.073,
-      "change": 0.0171,
-      "percent_change": 30.5,
-      "price_change_percentage_24h": 30.5,
+      "price": 0.07,
+      "change": 0.014,
+      "percent_change": 25.08,
+      "price_change_percentage_24h": 25.08,
       "source": "Google Finance"
     },
     {
       "symbol": "MONA",
       "name": "MonaCoin (MONA / USD)",
-      "price": 0.1342,
-      "change": 4.2e-05,
-      "percent_change": 0.032,
-      "price_change_percentage_24h": 0.032,
+      "price": 0.1345,
+      "change": 0.00035,
+      "percent_change": 0.26,
+      "price_change_percentage_24h": 0.26,
       "source": "Google Finance"
     },
     {
       "symbol": "GAS",
       "name": "Gas (GAS / USD)",
-      "price": 2.686,
-      "change": -0.0324,
-      "percent_change": 1.19,
-      "price_change_percentage_24h": 1.19,
+      "price": 2.7037,
+      "change": -0.0148,
+      "percent_change": 0.54,
+      "price_change_percentage_24h": 0.54,
       "source": "Google Finance"
     },
     {
       "symbol": "BTM",
       "name": "Bytom (BTM / USD)",
       "price": 0.0045,
-      "change": 9.1e-05,
-      "percent_change": 2.06,
-      "price_change_percentage_24h": 2.06,
+      "change": 0.00011,
+      "percent_change": 2.46,
+      "price_change_percentage_24h": 2.46,
       "source": "Google Finance"
     },
     {
       "symbol": "WTC",
       "name": "Waltonchain (WTC / USD)",
       "price": 0.0037,
-      "change": 0.00063,
-      "percent_change": 20.25,
-      "price_change_percentage_24h": 20.25,
+      "change": 0.00064,
+      "percent_change": 20.72,
+      "price_change_percentage_24h": 20.72,
       "source": "Google Finance"
     },
     {
       "symbol": "AION",
       "name": "Aion (AION / USD)",
       "price": 0.0047,
-      "change": -1.7e-05,
-      "percent_change": 0.37,
-      "price_change_percentage_24h": 0.37,
+      "change": 1e-06,
+      "percent_change": 0.022,
+      "price_change_percentage_24h": 0.022,
       "source": "Google Finance"
     },
     {
       "symbol": "GRS",
       "name": "Groestlcoin (GRS / USD)",
-      "price": 0.2691,
-      "change": -0.00035,
-      "percent_change": 0.13,
-      "price_change_percentage_24h": 0.13,
+      "price": 0.2699,
+      "change": 0.00049,
+      "percent_change": 0.18,
+      "price_change_percentage_24h": 0.18,
       "source": "Google Finance"
     },
     {
       "symbol": "BCN",
       "name": "Bytecoin (BCN / USD)",
-      "price": 0.015,
-      "change": 5.4e-05,
-      "percent_change": 0.36,
-      "price_change_percentage_24h": 0.36,
+      "price": 0.0153,
+      "change": 0.00036,
+      "percent_change": 2.4,
+      "price_change_percentage_24h": 2.4,
       "source": "Google Finance"
     },
     {
       "symbol": "VERI",
       "name": "Veritaseum (VERI / USD)",
-      "price": 51.1434,
-      "change": -0.1877,
-      "percent_change": 0.37,
-      "price_change_percentage_24h": 0.37,
+      "price": 51.3424,
+      "change": 0.0112,
+      "percent_change": 0.022,
+      "price_change_percentage_24h": 0.022,
       "source": "Google Finance"
     },
     {
       "symbol": "DGD",
       "name": "DigixDAO (DGD / USD)",
-      "price": 637.2642,
-      "change": 423.3464,
-      "percent_change": 197.9,
-      "price_change_percentage_24h": 197.9,
+      "price": 639.5958,
+      "change": 425.678,
+      "percent_change": 198.99,
+      "price_change_percentage_24h": 198.99,
       "source": "Google Finance"
     },
     {
       "symbol": "PIVX",
       "name": "PIVX (PIVX / USD)",
-      "price": 0.1202,
-      "change": 9.4e-05,
-      "percent_change": 0.078,
-      "price_change_percentage_24h": 0.078,
+      "price": 0.1213,
+      "change": 0.0012,
+      "percent_change": 1.0,
+      "price_change_percentage_24h": 1.0,
       "source": "Google Finance"
     },
     {
       "symbol": "PPT",
       "name": "Populous (PPT / USD)",
-      "price": 0.0458,
-      "change": 0.0041,
-      "percent_change": 9.85,
-      "price_change_percentage_24h": 9.85,
+      "price": 0.046,
+      "change": 0.0043,
+      "percent_change": 10.28,
+      "price_change_percentage_24h": 10.28,
       "source": "Google Finance"
     },
     {
       "symbol": "QASH",
       "name": "QASH (QASH / USD)",
-      "price": 0.0182,
-      "change": 0.00079,
-      "percent_change": 4.52,
-      "price_change_percentage_24h": 4.52,
+      "price": 0.0183,
+      "change": 0.00086,
+      "percent_change": 4.93,
+      "price_change_percentage_24h": 4.93,
       "source": "Google Finance"
     },
     {
       "symbol": "SALT",
       "name": "SALT (SALT / USD)",
-      "price": 0.0069,
+      "price": 0.007,
       "change": 0.0014,
-      "percent_change": 24.54,
-      "price_change_percentage_24h": 24.54,
+      "percent_change": 25.03,
+      "price_change_percentage_24h": 25.03,
       "source": "Google Finance"
     },
     {
       "symbol": "CCY",
       "name": "FCT / USD",
-      "price": 2.8496,
-      "change": -0.0105,
-      "percent_change": 0.37,
-      "price_change_percentage_24h": 0.37,
+      "price": 2.8607,
+      "change": 0.00062,
+      "percent_change": 0.022,
+      "price_change_percentage_24h": 0.022,
       "source": "Google Finance"
     },
     {
@@ -1392,17 +1392,17 @@
       "name": "Nxt (NXT / USD)",
       "price": 0.0011,
       "change": 0.00032,
-      "percent_change": 42.33,
-      "price_change_percentage_24h": 42.33,
+      "percent_change": 42.89,
+      "price_change_percentage_24h": 42.89,
       "source": "Google Finance"
     },
     {
       "symbol": "PAY",
       "name": "TenX (PAY / USD)",
       "price": 0.0068,
-      "change": -0.00024,
-      "percent_change": 3.38,
-      "price_change_percentage_24h": 3.38,
+      "change": -0.00021,
+      "percent_change": 3.01,
+      "price_change_percentage_24h": 3.01,
       "source": "Google Finance"
     },
     {
@@ -1410,116 +1410,116 @@
       "name": "Substratum (SUB / USD)",
       "price": 0.00032,
       "change": 0.00011,
-      "percent_change": 49.45,
-      "price_change_percentage_24h": 49.45,
+      "percent_change": 50.03,
+      "price_change_percentage_24h": 50.03,
       "source": "Google Finance"
     },
     {
       "symbol": "KNC",
       "name": "KingN Coin (KNC / USD)",
-      "price": 0.2936,
-      "change": -0.00097,
-      "percent_change": 0.33,
-      "price_change_percentage_24h": 0.33,
+      "price": 0.2969,
+      "change": 0.0023,
+      "percent_change": 0.78,
+      "price_change_percentage_24h": 0.78,
       "source": "Google Finance"
     },
     {
       "symbol": "REQ",
       "name": "Request Network (REQ / USD)",
-      "price": 0.1332,
-      "change": -0.00049,
-      "percent_change": 0.37,
-      "price_change_percentage_24h": 0.37,
+      "price": 0.1343,
+      "change": 0.00056,
+      "percent_change": 0.42,
+      "price_change_percentage_24h": 0.42,
       "source": "Google Finance"
     },
     {
       "symbol": "VGX",
       "name": "Voyager Tokens (VGX / USD)",
-      "price": 6.125,
-      "change": -0.0225,
-      "percent_change": 0.37,
-      "price_change_percentage_24h": 0.37,
+      "price": 6.1488,
+      "change": 0.0013,
+      "percent_change": 0.022,
+      "price_change_percentage_24h": 0.022,
       "source": "Google Finance"
     },
     {
       "symbol": "TNB",
       "name": "Time New Bank (TNB / USD)",
       "price": 0.0125,
-      "change": -4.6e-05,
-      "percent_change": 0.37,
-      "price_change_percentage_24h": 0.37,
+      "change": 2.7e-06,
+      "percent_change": 0.022,
+      "price_change_percentage_24h": 0.022,
       "source": "Google Finance"
     },
     {
       "symbol": "ZCL",
       "name": "ZClassic (ZCL / USD)",
-      "price": 0.4012,
-      "change": -0.0015,
-      "percent_change": 0.37,
-      "price_change_percentage_24h": 0.37,
+      "price": 0.4028,
+      "change": 8.8e-05,
+      "percent_change": 0.022,
+      "price_change_percentage_24h": 0.022,
       "source": "Google Finance"
     },
     {
       "symbol": "HSR",
       "name": "Hshare (HSR / USD)",
-      "price": 0.746,
-      "change": -0.0027,
-      "percent_change": 0.37,
-      "price_change_percentage_24h": 0.37,
+      "price": 0.7489,
+      "change": 0.00016,
+      "percent_change": 0.022,
+      "price_change_percentage_24h": 0.022,
       "source": "Google Finance"
     },
     {
       "symbol": "POWR",
       "name": "Powerledger (POWR / USD)",
-      "price": 0.1476,
-      "change": 0.00053,
-      "percent_change": 0.36,
-      "price_change_percentage_24h": 0.36,
+      "price": 0.1487,
+      "change": 0.0016,
+      "percent_change": 1.11,
+      "price_change_percentage_24h": 1.11,
       "source": "Google Finance"
     },
     {
       "symbol": "SAN",
       "name": "Santiment Network Token (SAN / USD)",
-      "price": 0.4145,
-      "change": -0.0015,
-      "percent_change": 0.37,
-      "price_change_percentage_24h": 0.37,
+      "price": 0.4162,
+      "change": 9.1e-05,
+      "percent_change": 0.022,
+      "price_change_percentage_24h": 0.022,
       "source": "Google Finance"
     },
     {
       "symbol": "ELF",
       "name": "aelf (ELF / USD)",
-      "price": 0.1884,
-      "change": -0.00069,
-      "percent_change": 0.37,
-      "price_change_percentage_24h": 0.37,
+      "price": 0.1889,
+      "change": -0.00017,
+      "percent_change": 0.091,
+      "price_change_percentage_24h": 0.091,
       "source": "Google Finance"
     },
     {
       "symbol": "STRAT",
       "name": "Stratis (STRAT / USD)",
-      "price": 0.1487,
-      "change": -0.00055,
-      "percent_change": 0.37,
-      "price_change_percentage_24h": 0.37,
+      "price": 0.1492,
+      "change": 3.3e-05,
+      "percent_change": 0.022,
+      "price_change_percentage_24h": 0.022,
       "source": "Google Finance"
     },
     {
       "symbol": "QSP",
       "name": "Quantstamp (QSP / USD)",
-      "price": 0.0638,
-      "change": -0.00023,
-      "percent_change": 0.37,
-      "price_change_percentage_24h": 0.37,
+      "price": 0.0641,
+      "change": 1.4e-05,
+      "percent_change": 0.022,
+      "price_change_percentage_24h": 0.022,
       "source": "Google Finance"
     },
     {
       "symbol": "RDN",
       "name": "Raiden Network Token (RDN / USD)",
-      "price": 0.47,
-      "change": -0.0017,
-      "percent_change": 0.37,
-      "price_change_percentage_24h": 0.37,
+      "price": 0.4718,
+      "change": 0.0001,
+      "percent_change": 0.022,
+      "price_change_percentage_24h": 0.022,
       "source": "Google Finance"
     }
   ]
